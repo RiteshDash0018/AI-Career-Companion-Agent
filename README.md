@@ -111,7 +111,7 @@ The system is organized into layers, moving from user interaction down to storag
 
 ### Architecture Diagram
 
-![AI Career Companion System Architecture](images/AI_Career_Companion_System_Architecture.png)
+![AI Career Companion System Architecture](images/AI_Career_Companion_System_Architecture.jpg)
 
 ### Layered View
 

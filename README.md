@@ -111,7 +111,7 @@ The system is organized into layers, moving from user interaction down to storag
 
 ### Architecture Diagram
 
-![AI Career Companion System Architecture](images/AI_Career_Companion_System_Architecture.png)
+![AI Career Companion System Architecture](images/AI_Career_Companion_System_Architecture.jpg)
 
 ### Layered View
 
@@ -434,24 +434,6 @@ The resume extraction module was tested with **3–5 sample resumes** in differe
 
 ---
 
-## 🎓 Infosys Springboard Submission
-
-| Field | Details |
-|---|---|
-| **Project Name** | AI Career Companion Agent for Internship Matching and Interview Preparation |
-| **Project Type** | Individual Project |
-| **Program** | Infosys Springboard Virtual Internship |
-| **Milestone** | Milestone 1 — Foundation & Candidate Understanding |
-| **Submission Date** | 28th August (Friday) |
-| **Programming Language** | Python |
-| **Frontend** | Streamlit |
-| **LLM Provider** | OpenRouter API |
-| **PDF Parser** | PyMuPDF |
-| **Validation** | Pydantic |
-| **Database** | SQLite |
-| **Repository** | GitHub |
-
-**Required submission:** GitHub Repository link · System Architecture · Technology Stack
 
 ---
 

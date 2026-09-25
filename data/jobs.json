@@ -1,0 +1,5117 @@
+[
+    {
+        "job_id": "JOB001",
+        "job_title": "Machine Learning Intern",
+        "company": "Example Technologies",
+        "location": "Bangalore, India",
+        "job_type": "Internship",
+        "job_description": "Work on machine learning models and data analysis to solve real-world business problems at Example Technologies.",
+        "responsibilities": [
+            "Build and train machine learning models",
+            "Analyze and preprocess datasets",
+            "Assist ML engineers with experimentation",
+            "Document model performance and results"
+        ],
+        "required_skills": [
+            "Python",
+            "Machine Learning",
+            "SQL"
+        ],
+        "preferred_skills": [
+            "Pandas",
+            "Scikit-learn",
+            "NumPy"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB002",
+        "job_title": "Machine Learning Intern",
+        "company": "NextGen Analytics",
+        "location": "Hyderabad, India",
+        "job_type": "Internship",
+        "job_description": "Work on machine learning models and data analysis to solve real-world business problems at NextGen Analytics.",
+        "responsibilities": [
+            "Build and train machine learning models",
+            "Analyze and preprocess datasets",
+            "Assist ML engineers with experimentation",
+            "Document model performance and results"
+        ],
+        "required_skills": [
+            "Python",
+            "Machine Learning",
+            "SQL"
+        ],
+        "preferred_skills": [
+            "Pandas",
+            "Scikit-learn",
+            "NumPy"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB003",
+        "job_title": "Machine Learning Intern",
+        "company": "BlueWave Software",
+        "location": "Pune, India",
+        "job_type": "Internship",
+        "job_description": "Work on machine learning models and data analysis to solve real-world business problems at BlueWave Software.",
+        "responsibilities": [
+            "Build and train machine learning models",
+            "Analyze and preprocess datasets",
+            "Assist ML engineers with experimentation",
+            "Document model performance and results"
+        ],
+        "required_skills": [
+            "Python",
+            "Machine Learning",
+            "SQL"
+        ],
+        "preferred_skills": [
+            "Pandas",
+            "Scikit-learn",
+            "NumPy"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB004",
+        "job_title": "Machine Learning Intern",
+        "company": "TechNova Solutions",
+        "location": "Mumbai, India",
+        "job_type": "Internship",
+        "job_description": "Work on machine learning models and data analysis to solve real-world business problems at TechNova Solutions.",
+        "responsibilities": [
+            "Build and train machine learning models",
+            "Analyze and preprocess datasets",
+            "Assist ML engineers with experimentation",
+            "Document model performance and results"
+        ],
+        "required_skills": [
+            "Python",
+            "Machine Learning",
+            "SQL"
+        ],
+        "preferred_skills": [
+            "Pandas",
+            "Scikit-learn",
+            "NumPy"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB005",
+        "job_title": "Machine Learning Intern",
+        "company": "Innovate Labs",
+        "location": "Delhi, India",
+        "job_type": "Internship",
+        "job_description": "Work on machine learning models and data analysis to solve real-world business problems at Innovate Labs.",
+        "responsibilities": [
+            "Build and train machine learning models",
+            "Analyze and preprocess datasets",
+            "Assist ML engineers with experimentation",
+            "Document model performance and results"
+        ],
+        "required_skills": [
+            "Python",
+            "Machine Learning",
+            "SQL"
+        ],
+        "preferred_skills": [
+            "Pandas",
+            "Scikit-learn",
+            "NumPy"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB006",
+        "job_title": "Data Science Intern",
+        "company": "CodeCraft Systems",
+        "location": "Gurugram, India",
+        "job_type": "Internship",
+        "job_description": "Support the data science team in extracting insights from large datasets and building predictive models at CodeCraft Systems.",
+        "responsibilities": [
+            "Clean and analyze structured and unstructured data",
+            "Build predictive models and dashboards",
+            "Present findings to stakeholders",
+            "Collaborate with cross-functional teams"
+        ],
+        "required_skills": [
+            "Python",
+            "Statistics",
+            "SQL"
+        ],
+        "preferred_skills": [
+            "Pandas",
+            "Data Visualization",
+            "Tableau"
+        ],
+        "qualification": "B.Tech/B.E./M.Sc. in Data Science, Statistics, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./M.Sc. in Data Science, Statistics, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB007",
+        "job_title": "Data Science Intern",
+        "company": "DataSphere Inc",
+        "location": "Noida, India",
+        "job_type": "Internship",
+        "job_description": "Support the data science team in extracting insights from large datasets and building predictive models at DataSphere Inc.",
+        "responsibilities": [
+            "Clean and analyze structured and unstructured data",
+            "Build predictive models and dashboards",
+            "Present findings to stakeholders",
+            "Collaborate with cross-functional teams"
+        ],
+        "required_skills": [
+            "Python",
+            "Statistics",
+            "SQL"
+        ],
+        "preferred_skills": [
+            "Pandas",
+            "Data Visualization",
+            "Tableau"
+        ],
+        "qualification": "B.Tech/B.E./M.Sc. in Data Science, Statistics, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./M.Sc. in Data Science, Statistics, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB008",
+        "job_title": "Data Science Intern",
+        "company": "CloudPeak Technologies",
+        "location": "Chennai, India",
+        "job_type": "Internship",
+        "job_description": "Support the data science team in extracting insights from large datasets and building predictive models at CloudPeak Technologies.",
+        "responsibilities": [
+            "Clean and analyze structured and unstructured data",
+            "Build predictive models and dashboards",
+            "Present findings to stakeholders",
+            "Collaborate with cross-functional teams"
+        ],
+        "required_skills": [
+            "Python",
+            "Statistics",
+            "SQL"
+        ],
+        "preferred_skills": [
+            "Pandas",
+            "Data Visualization",
+            "Tableau"
+        ],
+        "qualification": "B.Tech/B.E./M.Sc. in Data Science, Statistics, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./M.Sc. in Data Science, Statistics, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB009",
+        "job_title": "Data Science Intern",
+        "company": "ByteForge Software",
+        "location": "Kolkata, India",
+        "job_type": "Internship",
+        "job_description": "Support the data science team in extracting insights from large datasets and building predictive models at ByteForge Software.",
+        "responsibilities": [
+            "Clean and analyze structured and unstructured data",
+            "Build predictive models and dashboards",
+            "Present findings to stakeholders",
+            "Collaborate with cross-functional teams"
+        ],
+        "required_skills": [
+            "Python",
+            "Statistics",
+            "SQL"
+        ],
+        "preferred_skills": [
+            "Pandas",
+            "Data Visualization",
+            "Tableau"
+        ],
+        "qualification": "B.Tech/B.E./M.Sc. in Data Science, Statistics, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./M.Sc. in Data Science, Statistics, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB010",
+        "job_title": "Data Science Intern",
+        "company": "Quantum Analytics",
+        "location": "Ahmedabad, India",
+        "job_type": "Internship",
+        "job_description": "Support the data science team in extracting insights from large datasets and building predictive models at Quantum Analytics.",
+        "responsibilities": [
+            "Clean and analyze structured and unstructured data",
+            "Build predictive models and dashboards",
+            "Present findings to stakeholders",
+            "Collaborate with cross-functional teams"
+        ],
+        "required_skills": [
+            "Python",
+            "Statistics",
+            "SQL"
+        ],
+        "preferred_skills": [
+            "Pandas",
+            "Data Visualization",
+            "Tableau"
+        ],
+        "qualification": "B.Tech/B.E./M.Sc. in Data Science, Statistics, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./M.Sc. in Data Science, Statistics, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB011",
+        "job_title": "Data Analyst Intern",
+        "company": "PixelWorks Studio",
+        "location": "Jaipur, India",
+        "job_type": "Internship",
+        "job_description": "Assist the analytics team in generating reports and insights to support business decisions at PixelWorks Studio.",
+        "responsibilities": [
+            "Collect and clean data from multiple sources",
+            "Create dashboards and reports",
+            "Identify trends and patterns",
+            "Support decision-making with data insights"
+        ],
+        "required_skills": [
+            "Excel",
+            "SQL",
+            "Data Analysis"
+        ],
+        "preferred_skills": [
+            "Power BI",
+            "Tableau",
+            "Python"
+        ],
+        "qualification": "Bachelor's degree in any discipline (preferably Statistics, Economics, or CS)",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in any discipline (preferably Statistics, Economics, or CS)",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB012",
+        "job_title": "Data Analyst Intern",
+        "company": "GreenTech Innovations",
+        "location": "Chandigarh, India",
+        "job_type": "Internship",
+        "job_description": "Assist the analytics team in generating reports and insights to support business decisions at GreenTech Innovations.",
+        "responsibilities": [
+            "Collect and clean data from multiple sources",
+            "Create dashboards and reports",
+            "Identify trends and patterns",
+            "Support decision-making with data insights"
+        ],
+        "required_skills": [
+            "Excel",
+            "SQL",
+            "Data Analysis"
+        ],
+        "preferred_skills": [
+            "Power BI",
+            "Tableau",
+            "Python"
+        ],
+        "qualification": "Bachelor's degree in any discipline (preferably Statistics, Economics, or CS)",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in any discipline (preferably Statistics, Economics, or CS)",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB013",
+        "job_title": "Data Analyst Intern",
+        "company": "FinEdge Solutions",
+        "location": "Kochi, India",
+        "job_type": "Internship",
+        "job_description": "Assist the analytics team in generating reports and insights to support business decisions at FinEdge Solutions.",
+        "responsibilities": [
+            "Collect and clean data from multiple sources",
+            "Create dashboards and reports",
+            "Identify trends and patterns",
+            "Support decision-making with data insights"
+        ],
+        "required_skills": [
+            "Excel",
+            "SQL",
+            "Data Analysis"
+        ],
+        "preferred_skills": [
+            "Power BI",
+            "Tableau",
+            "Python"
+        ],
+        "qualification": "Bachelor's degree in any discipline (preferably Statistics, Economics, or CS)",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in any discipline (preferably Statistics, Economics, or CS)",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB014",
+        "job_title": "Data Analyst Intern",
+        "company": "MarketMinds Digital",
+        "location": "Coimbatore, India",
+        "job_type": "Internship",
+        "job_description": "Assist the analytics team in generating reports and insights to support business decisions at MarketMinds Digital.",
+        "responsibilities": [
+            "Collect and clean data from multiple sources",
+            "Create dashboards and reports",
+            "Identify trends and patterns",
+            "Support decision-making with data insights"
+        ],
+        "required_skills": [
+            "Excel",
+            "SQL",
+            "Data Analysis"
+        ],
+        "preferred_skills": [
+            "Power BI",
+            "Tableau",
+            "Python"
+        ],
+        "qualification": "Bachelor's degree in any discipline (preferably Statistics, Economics, or CS)",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in any discipline (preferably Statistics, Economics, or CS)",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB015",
+        "job_title": "Data Analyst Intern",
+        "company": "HealthBridge Systems",
+        "location": "Indore, India",
+        "job_type": "Internship",
+        "job_description": "Assist the analytics team in generating reports and insights to support business decisions at HealthBridge Systems.",
+        "responsibilities": [
+            "Collect and clean data from multiple sources",
+            "Create dashboards and reports",
+            "Identify trends and patterns",
+            "Support decision-making with data insights"
+        ],
+        "required_skills": [
+            "Excel",
+            "SQL",
+            "Data Analysis"
+        ],
+        "preferred_skills": [
+            "Power BI",
+            "Tableau",
+            "Python"
+        ],
+        "qualification": "Bachelor's degree in any discipline (preferably Statistics, Economics, or CS)",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in any discipline (preferably Statistics, Economics, or CS)",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB016",
+        "job_title": "Software Engineering Intern",
+        "company": "UrbanLogix Pvt Ltd",
+        "location": "Remote, India",
+        "job_type": "Remote Internship",
+        "job_description": "Contribute to the design, development, and testing of software applications at UrbanLogix Pvt Ltd.",
+        "responsibilities": [
+            "Write clean and efficient code",
+            "Participate in code reviews",
+            "Debug and fix software issues",
+            "Collaborate with senior engineers on feature development"
+        ],
+        "required_skills": [
+            "Java",
+            "Data Structures",
+            "Algorithms"
+        ],
+        "preferred_skills": [
+            "Git",
+            "REST APIs",
+            "Spring Boot"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB017",
+        "job_title": "Software Engineering Intern",
+        "company": "SecureNet Technologies",
+        "location": "Hybrid - Bangalore, India",
+        "job_type": "Hybrid Internship",
+        "job_description": "Contribute to the design, development, and testing of software applications at SecureNet Technologies.",
+        "responsibilities": [
+            "Write clean and efficient code",
+            "Participate in code reviews",
+            "Debug and fix software issues",
+            "Collaborate with senior engineers on feature development"
+        ],
+        "required_skills": [
+            "Java",
+            "Data Structures",
+            "Algorithms"
+        ],
+        "preferred_skills": [
+            "Git",
+            "REST APIs",
+            "Spring Boot"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB018",
+        "job_title": "Software Engineering Intern",
+        "company": "AgroTech Ventures",
+        "location": "Hybrid - Pune, India",
+        "job_type": "Hybrid Internship",
+        "job_description": "Contribute to the design, development, and testing of software applications at AgroTech Ventures.",
+        "responsibilities": [
+            "Write clean and efficient code",
+            "Participate in code reviews",
+            "Debug and fix software issues",
+            "Collaborate with senior engineers on feature development"
+        ],
+        "required_skills": [
+            "Java",
+            "Data Structures",
+            "Algorithms"
+        ],
+        "preferred_skills": [
+            "Git",
+            "REST APIs",
+            "Spring Boot"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB019",
+        "job_title": "Software Engineering Intern",
+        "company": "EduSpark Learning",
+        "location": "Hybrid - Hyderabad, India",
+        "job_type": "Hybrid Internship",
+        "job_description": "Contribute to the design, development, and testing of software applications at EduSpark Learning.",
+        "responsibilities": [
+            "Write clean and efficient code",
+            "Participate in code reviews",
+            "Debug and fix software issues",
+            "Collaborate with senior engineers on feature development"
+        ],
+        "required_skills": [
+            "Java",
+            "Data Structures",
+            "Algorithms"
+        ],
+        "preferred_skills": [
+            "Git",
+            "REST APIs",
+            "Spring Boot"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB020",
+        "job_title": "Software Engineering Intern",
+        "company": "RoboMatrix Robotics",
+        "location": "Bangalore, India",
+        "job_type": "Internship",
+        "job_description": "Contribute to the design, development, and testing of software applications at RoboMatrix Robotics.",
+        "responsibilities": [
+            "Write clean and efficient code",
+            "Participate in code reviews",
+            "Debug and fix software issues",
+            "Collaborate with senior engineers on feature development"
+        ],
+        "required_skills": [
+            "Java",
+            "Data Structures",
+            "Algorithms"
+        ],
+        "preferred_skills": [
+            "Git",
+            "REST APIs",
+            "Spring Boot"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB021",
+        "job_title": "Frontend Developer Intern",
+        "company": "SkyLine Aerospace",
+        "location": "Hyderabad, India",
+        "job_type": "Internship",
+        "job_description": "Build responsive and user-friendly web interfaces as part of the frontend team at SkyLine Aerospace.",
+        "responsibilities": [
+            "Develop and maintain web interfaces",
+            "Convert UI/UX designs into code",
+            "Optimize applications for performance",
+            "Fix bugs and improve usability"
+        ],
+        "required_skills": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "preferred_skills": [
+            "React",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "qualification": "B.Tech/B.E./BCA in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./BCA in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB022",
+        "job_title": "Frontend Developer Intern",
+        "company": "VendorHub Retail",
+        "location": "Pune, India",
+        "job_type": "Internship",
+        "job_description": "Build responsive and user-friendly web interfaces as part of the frontend team at VendorHub Retail.",
+        "responsibilities": [
+            "Develop and maintain web interfaces",
+            "Convert UI/UX designs into code",
+            "Optimize applications for performance",
+            "Fix bugs and improve usability"
+        ],
+        "required_skills": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "preferred_skills": [
+            "React",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "qualification": "B.Tech/B.E./BCA in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./BCA in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB023",
+        "job_title": "Frontend Developer Intern",
+        "company": "BrightPath Consulting",
+        "location": "Mumbai, India",
+        "job_type": "Internship",
+        "job_description": "Build responsive and user-friendly web interfaces as part of the frontend team at BrightPath Consulting.",
+        "responsibilities": [
+            "Develop and maintain web interfaces",
+            "Convert UI/UX designs into code",
+            "Optimize applications for performance",
+            "Fix bugs and improve usability"
+        ],
+        "required_skills": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "preferred_skills": [
+            "React",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "qualification": "B.Tech/B.E./BCA in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./BCA in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB024",
+        "job_title": "Frontend Developer Intern",
+        "company": "Zenith Software Labs",
+        "location": "Delhi, India",
+        "job_type": "Internship",
+        "job_description": "Build responsive and user-friendly web interfaces as part of the frontend team at Zenith Software Labs.",
+        "responsibilities": [
+            "Develop and maintain web interfaces",
+            "Convert UI/UX designs into code",
+            "Optimize applications for performance",
+            "Fix bugs and improve usability"
+        ],
+        "required_skills": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "preferred_skills": [
+            "React",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "qualification": "B.Tech/B.E./BCA in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./BCA in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB025",
+        "job_title": "Frontend Developer Intern",
+        "company": "Nimbus Cloud Services",
+        "location": "Gurugram, India",
+        "job_type": "Internship",
+        "job_description": "Build responsive and user-friendly web interfaces as part of the frontend team at Nimbus Cloud Services.",
+        "responsibilities": [
+            "Develop and maintain web interfaces",
+            "Convert UI/UX designs into code",
+            "Optimize applications for performance",
+            "Fix bugs and improve usability"
+        ],
+        "required_skills": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "preferred_skills": [
+            "React",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "qualification": "B.Tech/B.E./BCA in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./BCA in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB026",
+        "job_title": "Backend Developer Intern",
+        "company": "Orbit Digital Media",
+        "location": "Noida, India",
+        "job_type": "Internship",
+        "job_description": "Assist in building scalable backend services and APIs at Orbit Digital Media.",
+        "responsibilities": [
+            "Design and develop backend APIs",
+            "Manage database schemas",
+            "Optimize server performance",
+            "Write unit and integration tests"
+        ],
+        "required_skills": [
+            "Node.js",
+            "REST APIs",
+            "SQL"
+        ],
+        "preferred_skills": [
+            "MongoDB",
+            "Docker",
+            "Express.js"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB027",
+        "job_title": "Backend Developer Intern",
+        "company": "Vertex Data Systems",
+        "location": "Chennai, India",
+        "job_type": "Internship",
+        "job_description": "Assist in building scalable backend services and APIs at Vertex Data Systems.",
+        "responsibilities": [
+            "Design and develop backend APIs",
+            "Manage database schemas",
+            "Optimize server performance",
+            "Write unit and integration tests"
+        ],
+        "required_skills": [
+            "Node.js",
+            "REST APIs",
+            "SQL"
+        ],
+        "preferred_skills": [
+            "MongoDB",
+            "Docker",
+            "Express.js"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB028",
+        "job_title": "Backend Developer Intern",
+        "company": "Apex Innovations",
+        "location": "Kolkata, India",
+        "job_type": "Internship",
+        "job_description": "Assist in building scalable backend services and APIs at Apex Innovations.",
+        "responsibilities": [
+            "Design and develop backend APIs",
+            "Manage database schemas",
+            "Optimize server performance",
+            "Write unit and integration tests"
+        ],
+        "required_skills": [
+            "Node.js",
+            "REST APIs",
+            "SQL"
+        ],
+        "preferred_skills": [
+            "MongoDB",
+            "Docker",
+            "Express.js"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB029",
+        "job_title": "Backend Developer Intern",
+        "company": "Silverline Technologies",
+        "location": "Ahmedabad, India",
+        "job_type": "Internship",
+        "job_description": "Assist in building scalable backend services and APIs at Silverline Technologies.",
+        "responsibilities": [
+            "Design and develop backend APIs",
+            "Manage database schemas",
+            "Optimize server performance",
+            "Write unit and integration tests"
+        ],
+        "required_skills": [
+            "Node.js",
+            "REST APIs",
+            "SQL"
+        ],
+        "preferred_skills": [
+            "MongoDB",
+            "Docker",
+            "Express.js"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB030",
+        "job_title": "Backend Developer Intern",
+        "company": "Crestline Software",
+        "location": "Jaipur, India",
+        "job_type": "Internship",
+        "job_description": "Assist in building scalable backend services and APIs at Crestline Software.",
+        "responsibilities": [
+            "Design and develop backend APIs",
+            "Manage database schemas",
+            "Optimize server performance",
+            "Write unit and integration tests"
+        ],
+        "required_skills": [
+            "Node.js",
+            "REST APIs",
+            "SQL"
+        ],
+        "preferred_skills": [
+            "MongoDB",
+            "Docker",
+            "Express.js"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB031",
+        "job_title": "Full Stack Developer Intern",
+        "company": "Novatech Systems",
+        "location": "Chandigarh, India",
+        "job_type": "Internship",
+        "job_description": "Work across the stack to build and maintain web applications end-to-end at Novatech Systems.",
+        "responsibilities": [
+            "Develop frontend and backend components",
+            "Integrate APIs and databases",
+            "Participate in sprint planning",
+            "Deploy and test application features"
+        ],
+        "required_skills": [
+            "JavaScript",
+            "React",
+            "Node.js"
+        ],
+        "preferred_skills": [
+            "MongoDB",
+            "SQL",
+            "AWS"
+        ],
+        "qualification": "B.Tech/B.E./BCA in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./BCA in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB032",
+        "job_title": "Full Stack Developer Intern",
+        "company": "Bluepine Analytics",
+        "location": "Kochi, India",
+        "job_type": "Internship",
+        "job_description": "Work across the stack to build and maintain web applications end-to-end at Bluepine Analytics.",
+        "responsibilities": [
+            "Develop frontend and backend components",
+            "Integrate APIs and databases",
+            "Participate in sprint planning",
+            "Deploy and test application features"
+        ],
+        "required_skills": [
+            "JavaScript",
+            "React",
+            "Node.js"
+        ],
+        "preferred_skills": [
+            "MongoDB",
+            "SQL",
+            "AWS"
+        ],
+        "qualification": "B.Tech/B.E./BCA in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./BCA in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB033",
+        "job_title": "Full Stack Developer Intern",
+        "company": "Redwood Software Pvt Ltd",
+        "location": "Coimbatore, India",
+        "job_type": "Internship",
+        "job_description": "Work across the stack to build and maintain web applications end-to-end at Redwood Software Pvt Ltd.",
+        "responsibilities": [
+            "Develop frontend and backend components",
+            "Integrate APIs and databases",
+            "Participate in sprint planning",
+            "Deploy and test application features"
+        ],
+        "required_skills": [
+            "JavaScript",
+            "React",
+            "Node.js"
+        ],
+        "preferred_skills": [
+            "MongoDB",
+            "SQL",
+            "AWS"
+        ],
+        "qualification": "B.Tech/B.E./BCA in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./BCA in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB034",
+        "job_title": "Full Stack Developer Intern",
+        "company": "Skyline IT Solutions",
+        "location": "Indore, India",
+        "job_type": "Internship",
+        "job_description": "Work across the stack to build and maintain web applications end-to-end at Skyline IT Solutions.",
+        "responsibilities": [
+            "Develop frontend and backend components",
+            "Integrate APIs and databases",
+            "Participate in sprint planning",
+            "Deploy and test application features"
+        ],
+        "required_skills": [
+            "JavaScript",
+            "React",
+            "Node.js"
+        ],
+        "preferred_skills": [
+            "MongoDB",
+            "SQL",
+            "AWS"
+        ],
+        "qualification": "B.Tech/B.E./BCA in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./BCA in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB035",
+        "job_title": "Full Stack Developer Intern",
+        "company": "Greenfield Technologies",
+        "location": "Remote, India",
+        "job_type": "Remote Internship",
+        "job_description": "Work across the stack to build and maintain web applications end-to-end at Greenfield Technologies.",
+        "responsibilities": [
+            "Develop frontend and backend components",
+            "Integrate APIs and databases",
+            "Participate in sprint planning",
+            "Deploy and test application features"
+        ],
+        "required_skills": [
+            "JavaScript",
+            "React",
+            "Node.js"
+        ],
+        "preferred_skills": [
+            "MongoDB",
+            "SQL",
+            "AWS"
+        ],
+        "qualification": "B.Tech/B.E./BCA in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./BCA in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB036",
+        "job_title": "Mobile App Developer Intern (Android)",
+        "company": "Lumina Software",
+        "location": "Hybrid - Bangalore, India",
+        "job_type": "Hybrid Internship",
+        "job_description": "Assist in developing and maintaining Android applications at Lumina Software.",
+        "responsibilities": [
+            "Develop Android app features",
+            "Fix bugs and improve app performance",
+            "Integrate third-party APIs",
+            "Test applications on multiple devices"
+        ],
+        "required_skills": [
+            "Java",
+            "Kotlin",
+            "Android SDK"
+        ],
+        "preferred_skills": [
+            "Firebase",
+            "REST APIs",
+            "Jetpack Compose"
+        ],
+        "qualification": "B.Tech/B.E./BCA in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./BCA in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB037",
+        "job_title": "Mobile App Developer Intern (Android)",
+        "company": "Pinnacle Data Systems",
+        "location": "Hybrid - Pune, India",
+        "job_type": "Hybrid Internship",
+        "job_description": "Assist in developing and maintaining Android applications at Pinnacle Data Systems.",
+        "responsibilities": [
+            "Develop Android app features",
+            "Fix bugs and improve app performance",
+            "Integrate third-party APIs",
+            "Test applications on multiple devices"
+        ],
+        "required_skills": [
+            "Java",
+            "Kotlin",
+            "Android SDK"
+        ],
+        "preferred_skills": [
+            "Firebase",
+            "REST APIs",
+            "Jetpack Compose"
+        ],
+        "qualification": "B.Tech/B.E./BCA in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./BCA in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB038",
+        "job_title": "Mobile App Developer Intern (Android)",
+        "company": "Horizon Tech Labs",
+        "location": "Hybrid - Hyderabad, India",
+        "job_type": "Hybrid Internship",
+        "job_description": "Assist in developing and maintaining Android applications at Horizon Tech Labs.",
+        "responsibilities": [
+            "Develop Android app features",
+            "Fix bugs and improve app performance",
+            "Integrate third-party APIs",
+            "Test applications on multiple devices"
+        ],
+        "required_skills": [
+            "Java",
+            "Kotlin",
+            "Android SDK"
+        ],
+        "preferred_skills": [
+            "Firebase",
+            "REST APIs",
+            "Jetpack Compose"
+        ],
+        "qualification": "B.Tech/B.E./BCA in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./BCA in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB039",
+        "job_title": "Mobile App Developer Intern (Android)",
+        "company": "Wavelength Digital",
+        "location": "Bangalore, India",
+        "job_type": "Internship",
+        "job_description": "Assist in developing and maintaining Android applications at Wavelength Digital.",
+        "responsibilities": [
+            "Develop Android app features",
+            "Fix bugs and improve app performance",
+            "Integrate third-party APIs",
+            "Test applications on multiple devices"
+        ],
+        "required_skills": [
+            "Java",
+            "Kotlin",
+            "Android SDK"
+        ],
+        "preferred_skills": [
+            "Firebase",
+            "REST APIs",
+            "Jetpack Compose"
+        ],
+        "qualification": "B.Tech/B.E./BCA in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./BCA in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB040",
+        "job_title": "Mobile App Developer Intern (Android)",
+        "company": "Northstar Analytics",
+        "location": "Hyderabad, India",
+        "job_type": "Internship",
+        "job_description": "Assist in developing and maintaining Android applications at Northstar Analytics.",
+        "responsibilities": [
+            "Develop Android app features",
+            "Fix bugs and improve app performance",
+            "Integrate third-party APIs",
+            "Test applications on multiple devices"
+        ],
+        "required_skills": [
+            "Java",
+            "Kotlin",
+            "Android SDK"
+        ],
+        "preferred_skills": [
+            "Firebase",
+            "REST APIs",
+            "Jetpack Compose"
+        ],
+        "qualification": "B.Tech/B.E./BCA in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./BCA in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB041",
+        "job_title": "Mobile App Developer Intern (iOS)",
+        "company": "Elevate Software Solutions",
+        "location": "Pune, India",
+        "job_type": "Internship",
+        "job_description": "Support the mobile team in building and enhancing iOS applications at Elevate Software Solutions.",
+        "responsibilities": [
+            "Build and maintain iOS app features",
+            "Debug and resolve app issues",
+            "Collaborate with designers on UI implementation",
+            "Write clean, maintainable Swift code"
+        ],
+        "required_skills": [
+            "Swift",
+            "iOS SDK",
+            "Xcode"
+        ],
+        "preferred_skills": [
+            "SwiftUI",
+            "REST APIs",
+            "Core Data"
+        ],
+        "qualification": "B.Tech/B.E./BCA in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./BCA in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB042",
+        "job_title": "Mobile App Developer Intern (iOS)",
+        "company": "TrueNorth Systems",
+        "location": "Mumbai, India",
+        "job_type": "Internship",
+        "job_description": "Support the mobile team in building and enhancing iOS applications at TrueNorth Systems.",
+        "responsibilities": [
+            "Build and maintain iOS app features",
+            "Debug and resolve app issues",
+            "Collaborate with designers on UI implementation",
+            "Write clean, maintainable Swift code"
+        ],
+        "required_skills": [
+            "Swift",
+            "iOS SDK",
+            "Xcode"
+        ],
+        "preferred_skills": [
+            "SwiftUI",
+            "REST APIs",
+            "Core Data"
+        ],
+        "qualification": "B.Tech/B.E./BCA in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./BCA in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB043",
+        "job_title": "Mobile App Developer Intern (iOS)",
+        "company": "BrightSpark Technologies",
+        "location": "Delhi, India",
+        "job_type": "Internship",
+        "job_description": "Support the mobile team in building and enhancing iOS applications at BrightSpark Technologies.",
+        "responsibilities": [
+            "Build and maintain iOS app features",
+            "Debug and resolve app issues",
+            "Collaborate with designers on UI implementation",
+            "Write clean, maintainable Swift code"
+        ],
+        "required_skills": [
+            "Swift",
+            "iOS SDK",
+            "Xcode"
+        ],
+        "preferred_skills": [
+            "SwiftUI",
+            "REST APIs",
+            "Core Data"
+        ],
+        "qualification": "B.Tech/B.E./BCA in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./BCA in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB044",
+        "job_title": "Mobile App Developer Intern (iOS)",
+        "company": "Infinity Cloud Labs",
+        "location": "Gurugram, India",
+        "job_type": "Internship",
+        "job_description": "Support the mobile team in building and enhancing iOS applications at Infinity Cloud Labs.",
+        "responsibilities": [
+            "Build and maintain iOS app features",
+            "Debug and resolve app issues",
+            "Collaborate with designers on UI implementation",
+            "Write clean, maintainable Swift code"
+        ],
+        "required_skills": [
+            "Swift",
+            "iOS SDK",
+            "Xcode"
+        ],
+        "preferred_skills": [
+            "SwiftUI",
+            "REST APIs",
+            "Core Data"
+        ],
+        "qualification": "B.Tech/B.E./BCA in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./BCA in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB045",
+        "job_title": "Mobile App Developer Intern (iOS)",
+        "company": "Meridian Software",
+        "location": "Noida, India",
+        "job_type": "Internship",
+        "job_description": "Support the mobile team in building and enhancing iOS applications at Meridian Software.",
+        "responsibilities": [
+            "Build and maintain iOS app features",
+            "Debug and resolve app issues",
+            "Collaborate with designers on UI implementation",
+            "Write clean, maintainable Swift code"
+        ],
+        "required_skills": [
+            "Swift",
+            "iOS SDK",
+            "Xcode"
+        ],
+        "preferred_skills": [
+            "SwiftUI",
+            "REST APIs",
+            "Core Data"
+        ],
+        "qualification": "B.Tech/B.E./BCA in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./BCA in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB046",
+        "job_title": "DevOps Intern",
+        "company": "Catalyst Innovations",
+        "location": "Chennai, India",
+        "job_type": "Internship",
+        "job_description": "Support the DevOps team in automating deployment pipelines and managing infrastructure at Catalyst Innovations.",
+        "responsibilities": [
+            "Maintain CI/CD pipelines",
+            "Automate infrastructure provisioning",
+            "Monitor system performance",
+            "Assist in troubleshooting deployment issues"
+        ],
+        "required_skills": [
+            "Linux",
+            "Git",
+            "CI/CD"
+        ],
+        "preferred_skills": [
+            "Docker",
+            "Kubernetes",
+            "AWS"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science, IT, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science, IT, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB047",
+        "job_title": "DevOps Intern",
+        "company": "Momentum Tech",
+        "location": "Kolkata, India",
+        "job_type": "Internship",
+        "job_description": "Support the DevOps team in automating deployment pipelines and managing infrastructure at Momentum Tech.",
+        "responsibilities": [
+            "Maintain CI/CD pipelines",
+            "Automate infrastructure provisioning",
+            "Monitor system performance",
+            "Assist in troubleshooting deployment issues"
+        ],
+        "required_skills": [
+            "Linux",
+            "Git",
+            "CI/CD"
+        ],
+        "preferred_skills": [
+            "Docker",
+            "Kubernetes",
+            "AWS"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science, IT, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science, IT, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB048",
+        "job_title": "DevOps Intern",
+        "company": "Stratosphere Systems",
+        "location": "Ahmedabad, India",
+        "job_type": "Internship",
+        "job_description": "Support the DevOps team in automating deployment pipelines and managing infrastructure at Stratosphere Systems.",
+        "responsibilities": [
+            "Maintain CI/CD pipelines",
+            "Automate infrastructure provisioning",
+            "Monitor system performance",
+            "Assist in troubleshooting deployment issues"
+        ],
+        "required_skills": [
+            "Linux",
+            "Git",
+            "CI/CD"
+        ],
+        "preferred_skills": [
+            "Docker",
+            "Kubernetes",
+            "AWS"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science, IT, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science, IT, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB049",
+        "job_title": "DevOps Intern",
+        "company": "Clearwater Analytics",
+        "location": "Jaipur, India",
+        "job_type": "Internship",
+        "job_description": "Support the DevOps team in automating deployment pipelines and managing infrastructure at Clearwater Analytics.",
+        "responsibilities": [
+            "Maintain CI/CD pipelines",
+            "Automate infrastructure provisioning",
+            "Monitor system performance",
+            "Assist in troubleshooting deployment issues"
+        ],
+        "required_skills": [
+            "Linux",
+            "Git",
+            "CI/CD"
+        ],
+        "preferred_skills": [
+            "Docker",
+            "Kubernetes",
+            "AWS"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science, IT, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science, IT, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB050",
+        "job_title": "DevOps Intern",
+        "company": "Ironclad Security Solutions",
+        "location": "Chandigarh, India",
+        "job_type": "Internship",
+        "job_description": "Support the DevOps team in automating deployment pipelines and managing infrastructure at Ironclad Security Solutions.",
+        "responsibilities": [
+            "Maintain CI/CD pipelines",
+            "Automate infrastructure provisioning",
+            "Monitor system performance",
+            "Assist in troubleshooting deployment issues"
+        ],
+        "required_skills": [
+            "Linux",
+            "Git",
+            "CI/CD"
+        ],
+        "preferred_skills": [
+            "Docker",
+            "Kubernetes",
+            "AWS"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science, IT, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science, IT, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB051",
+        "job_title": "Cloud Computing Intern",
+        "company": "Example Technologies",
+        "location": "Kochi, India",
+        "job_type": "Internship",
+        "job_description": "Assist in designing and managing cloud infrastructure and services at Example Technologies.",
+        "responsibilities": [
+            "Deploy and manage cloud resources",
+            "Monitor cloud infrastructure costs and performance",
+            "Assist in migrating applications to the cloud",
+            "Document cloud architecture"
+        ],
+        "required_skills": [
+            "AWS",
+            "Cloud Computing",
+            "Linux"
+        ],
+        "preferred_skills": [
+            "Azure",
+            "Terraform",
+            "Docker"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science, IT, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science, IT, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB052",
+        "job_title": "Cloud Computing Intern",
+        "company": "NextGen Analytics",
+        "location": "Coimbatore, India",
+        "job_type": "Internship",
+        "job_description": "Assist in designing and managing cloud infrastructure and services at NextGen Analytics.",
+        "responsibilities": [
+            "Deploy and manage cloud resources",
+            "Monitor cloud infrastructure costs and performance",
+            "Assist in migrating applications to the cloud",
+            "Document cloud architecture"
+        ],
+        "required_skills": [
+            "AWS",
+            "Cloud Computing",
+            "Linux"
+        ],
+        "preferred_skills": [
+            "Azure",
+            "Terraform",
+            "Docker"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science, IT, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science, IT, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB053",
+        "job_title": "Cloud Computing Intern",
+        "company": "BlueWave Software",
+        "location": "Indore, India",
+        "job_type": "Internship",
+        "job_description": "Assist in designing and managing cloud infrastructure and services at BlueWave Software.",
+        "responsibilities": [
+            "Deploy and manage cloud resources",
+            "Monitor cloud infrastructure costs and performance",
+            "Assist in migrating applications to the cloud",
+            "Document cloud architecture"
+        ],
+        "required_skills": [
+            "AWS",
+            "Cloud Computing",
+            "Linux"
+        ],
+        "preferred_skills": [
+            "Azure",
+            "Terraform",
+            "Docker"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science, IT, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science, IT, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB054",
+        "job_title": "Cloud Computing Intern",
+        "company": "TechNova Solutions",
+        "location": "Remote, India",
+        "job_type": "Remote Internship",
+        "job_description": "Assist in designing and managing cloud infrastructure and services at TechNova Solutions.",
+        "responsibilities": [
+            "Deploy and manage cloud resources",
+            "Monitor cloud infrastructure costs and performance",
+            "Assist in migrating applications to the cloud",
+            "Document cloud architecture"
+        ],
+        "required_skills": [
+            "AWS",
+            "Cloud Computing",
+            "Linux"
+        ],
+        "preferred_skills": [
+            "Azure",
+            "Terraform",
+            "Docker"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science, IT, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science, IT, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB055",
+        "job_title": "Cloud Computing Intern",
+        "company": "Innovate Labs",
+        "location": "Hybrid - Bangalore, India",
+        "job_type": "Hybrid Internship",
+        "job_description": "Assist in designing and managing cloud infrastructure and services at Innovate Labs.",
+        "responsibilities": [
+            "Deploy and manage cloud resources",
+            "Monitor cloud infrastructure costs and performance",
+            "Assist in migrating applications to the cloud",
+            "Document cloud architecture"
+        ],
+        "required_skills": [
+            "AWS",
+            "Cloud Computing",
+            "Linux"
+        ],
+        "preferred_skills": [
+            "Azure",
+            "Terraform",
+            "Docker"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science, IT, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science, IT, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB056",
+        "job_title": "Cybersecurity Intern",
+        "company": "CodeCraft Systems",
+        "location": "Hybrid - Pune, India",
+        "job_type": "Hybrid Internship",
+        "job_description": "Support the security team in identifying vulnerabilities and strengthening systems at CodeCraft Systems.",
+        "responsibilities": [
+            "Conduct vulnerability assessments",
+            "Monitor security alerts and logs",
+            "Assist in incident response",
+            "Document security findings and recommendations"
+        ],
+        "required_skills": [
+            "Networking",
+            "Security Fundamentals",
+            "Linux"
+        ],
+        "preferred_skills": [
+            "Penetration Testing",
+            "SIEM Tools",
+            "Python"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science, IT, or Cybersecurity",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science, IT, or Cybersecurity",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB057",
+        "job_title": "Cybersecurity Intern",
+        "company": "DataSphere Inc",
+        "location": "Hybrid - Hyderabad, India",
+        "job_type": "Hybrid Internship",
+        "job_description": "Support the security team in identifying vulnerabilities and strengthening systems at DataSphere Inc.",
+        "responsibilities": [
+            "Conduct vulnerability assessments",
+            "Monitor security alerts and logs",
+            "Assist in incident response",
+            "Document security findings and recommendations"
+        ],
+        "required_skills": [
+            "Networking",
+            "Security Fundamentals",
+            "Linux"
+        ],
+        "preferred_skills": [
+            "Penetration Testing",
+            "SIEM Tools",
+            "Python"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science, IT, or Cybersecurity",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science, IT, or Cybersecurity",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB058",
+        "job_title": "Cybersecurity Intern",
+        "company": "CloudPeak Technologies",
+        "location": "Bangalore, India",
+        "job_type": "Internship",
+        "job_description": "Support the security team in identifying vulnerabilities and strengthening systems at CloudPeak Technologies.",
+        "responsibilities": [
+            "Conduct vulnerability assessments",
+            "Monitor security alerts and logs",
+            "Assist in incident response",
+            "Document security findings and recommendations"
+        ],
+        "required_skills": [
+            "Networking",
+            "Security Fundamentals",
+            "Linux"
+        ],
+        "preferred_skills": [
+            "Penetration Testing",
+            "SIEM Tools",
+            "Python"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science, IT, or Cybersecurity",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science, IT, or Cybersecurity",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB059",
+        "job_title": "Cybersecurity Intern",
+        "company": "ByteForge Software",
+        "location": "Hyderabad, India",
+        "job_type": "Internship",
+        "job_description": "Support the security team in identifying vulnerabilities and strengthening systems at ByteForge Software.",
+        "responsibilities": [
+            "Conduct vulnerability assessments",
+            "Monitor security alerts and logs",
+            "Assist in incident response",
+            "Document security findings and recommendations"
+        ],
+        "required_skills": [
+            "Networking",
+            "Security Fundamentals",
+            "Linux"
+        ],
+        "preferred_skills": [
+            "Penetration Testing",
+            "SIEM Tools",
+            "Python"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science, IT, or Cybersecurity",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science, IT, or Cybersecurity",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB060",
+        "job_title": "Cybersecurity Intern",
+        "company": "Quantum Analytics",
+        "location": "Pune, India",
+        "job_type": "Internship",
+        "job_description": "Support the security team in identifying vulnerabilities and strengthening systems at Quantum Analytics.",
+        "responsibilities": [
+            "Conduct vulnerability assessments",
+            "Monitor security alerts and logs",
+            "Assist in incident response",
+            "Document security findings and recommendations"
+        ],
+        "required_skills": [
+            "Networking",
+            "Security Fundamentals",
+            "Linux"
+        ],
+        "preferred_skills": [
+            "Penetration Testing",
+            "SIEM Tools",
+            "Python"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science, IT, or Cybersecurity",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science, IT, or Cybersecurity",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB061",
+        "job_title": "QA/Testing Intern",
+        "company": "PixelWorks Studio",
+        "location": "Mumbai, India",
+        "job_type": "Internship",
+        "job_description": "Assist the QA team in testing software applications to ensure quality and reliability at PixelWorks Studio.",
+        "responsibilities": [
+            "Write and execute test cases",
+            "Report and track bugs",
+            "Perform regression testing",
+            "Collaborate with developers to resolve issues"
+        ],
+        "required_skills": [
+            "Manual Testing",
+            "Test Case Design",
+            "SQL"
+        ],
+        "preferred_skills": [
+            "Selenium",
+            "Automation Testing",
+            "JIRA"
+        ],
+        "qualification": "B.Tech/B.E./BCA in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./BCA in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB062",
+        "job_title": "QA/Testing Intern",
+        "company": "GreenTech Innovations",
+        "location": "Delhi, India",
+        "job_type": "Internship",
+        "job_description": "Assist the QA team in testing software applications to ensure quality and reliability at GreenTech Innovations.",
+        "responsibilities": [
+            "Write and execute test cases",
+            "Report and track bugs",
+            "Perform regression testing",
+            "Collaborate with developers to resolve issues"
+        ],
+        "required_skills": [
+            "Manual Testing",
+            "Test Case Design",
+            "SQL"
+        ],
+        "preferred_skills": [
+            "Selenium",
+            "Automation Testing",
+            "JIRA"
+        ],
+        "qualification": "B.Tech/B.E./BCA in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./BCA in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB063",
+        "job_title": "QA/Testing Intern",
+        "company": "FinEdge Solutions",
+        "location": "Gurugram, India",
+        "job_type": "Internship",
+        "job_description": "Assist the QA team in testing software applications to ensure quality and reliability at FinEdge Solutions.",
+        "responsibilities": [
+            "Write and execute test cases",
+            "Report and track bugs",
+            "Perform regression testing",
+            "Collaborate with developers to resolve issues"
+        ],
+        "required_skills": [
+            "Manual Testing",
+            "Test Case Design",
+            "SQL"
+        ],
+        "preferred_skills": [
+            "Selenium",
+            "Automation Testing",
+            "JIRA"
+        ],
+        "qualification": "B.Tech/B.E./BCA in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./BCA in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB064",
+        "job_title": "QA/Testing Intern",
+        "company": "MarketMinds Digital",
+        "location": "Noida, India",
+        "job_type": "Internship",
+        "job_description": "Assist the QA team in testing software applications to ensure quality and reliability at MarketMinds Digital.",
+        "responsibilities": [
+            "Write and execute test cases",
+            "Report and track bugs",
+            "Perform regression testing",
+            "Collaborate with developers to resolve issues"
+        ],
+        "required_skills": [
+            "Manual Testing",
+            "Test Case Design",
+            "SQL"
+        ],
+        "preferred_skills": [
+            "Selenium",
+            "Automation Testing",
+            "JIRA"
+        ],
+        "qualification": "B.Tech/B.E./BCA in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./BCA in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB065",
+        "job_title": "QA/Testing Intern",
+        "company": "HealthBridge Systems",
+        "location": "Chennai, India",
+        "job_type": "Internship",
+        "job_description": "Assist the QA team in testing software applications to ensure quality and reliability at HealthBridge Systems.",
+        "responsibilities": [
+            "Write and execute test cases",
+            "Report and track bugs",
+            "Perform regression testing",
+            "Collaborate with developers to resolve issues"
+        ],
+        "required_skills": [
+            "Manual Testing",
+            "Test Case Design",
+            "SQL"
+        ],
+        "preferred_skills": [
+            "Selenium",
+            "Automation Testing",
+            "JIRA"
+        ],
+        "qualification": "B.Tech/B.E./BCA in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./BCA in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB066",
+        "job_title": "UI/UX Design Intern",
+        "company": "UrbanLogix Pvt Ltd",
+        "location": "Kolkata, India",
+        "job_type": "Internship",
+        "job_description": "Support the design team in creating intuitive and visually appealing user experiences at UrbanLogix Pvt Ltd.",
+        "responsibilities": [
+            "Create wireframes and prototypes",
+            "Conduct user research and usability testing",
+            "Collaborate with developers on design implementation",
+            "Maintain design consistency across products"
+        ],
+        "required_skills": [
+            "Figma",
+            "Wireframing",
+            "Prototyping"
+        ],
+        "preferred_skills": [
+            "Adobe XD",
+            "User Research",
+            "Sketch"
+        ],
+        "qualification": "Bachelor's degree in Design, HCI, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in Design, HCI, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB067",
+        "job_title": "UI/UX Design Intern",
+        "company": "SecureNet Technologies",
+        "location": "Ahmedabad, India",
+        "job_type": "Internship",
+        "job_description": "Support the design team in creating intuitive and visually appealing user experiences at SecureNet Technologies.",
+        "responsibilities": [
+            "Create wireframes and prototypes",
+            "Conduct user research and usability testing",
+            "Collaborate with developers on design implementation",
+            "Maintain design consistency across products"
+        ],
+        "required_skills": [
+            "Figma",
+            "Wireframing",
+            "Prototyping"
+        ],
+        "preferred_skills": [
+            "Adobe XD",
+            "User Research",
+            "Sketch"
+        ],
+        "qualification": "Bachelor's degree in Design, HCI, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in Design, HCI, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB068",
+        "job_title": "UI/UX Design Intern",
+        "company": "AgroTech Ventures",
+        "location": "Jaipur, India",
+        "job_type": "Internship",
+        "job_description": "Support the design team in creating intuitive and visually appealing user experiences at AgroTech Ventures.",
+        "responsibilities": [
+            "Create wireframes and prototypes",
+            "Conduct user research and usability testing",
+            "Collaborate with developers on design implementation",
+            "Maintain design consistency across products"
+        ],
+        "required_skills": [
+            "Figma",
+            "Wireframing",
+            "Prototyping"
+        ],
+        "preferred_skills": [
+            "Adobe XD",
+            "User Research",
+            "Sketch"
+        ],
+        "qualification": "Bachelor's degree in Design, HCI, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in Design, HCI, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB069",
+        "job_title": "UI/UX Design Intern",
+        "company": "EduSpark Learning",
+        "location": "Chandigarh, India",
+        "job_type": "Internship",
+        "job_description": "Support the design team in creating intuitive and visually appealing user experiences at EduSpark Learning.",
+        "responsibilities": [
+            "Create wireframes and prototypes",
+            "Conduct user research and usability testing",
+            "Collaborate with developers on design implementation",
+            "Maintain design consistency across products"
+        ],
+        "required_skills": [
+            "Figma",
+            "Wireframing",
+            "Prototyping"
+        ],
+        "preferred_skills": [
+            "Adobe XD",
+            "User Research",
+            "Sketch"
+        ],
+        "qualification": "Bachelor's degree in Design, HCI, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in Design, HCI, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB070",
+        "job_title": "UI/UX Design Intern",
+        "company": "RoboMatrix Robotics",
+        "location": "Kochi, India",
+        "job_type": "Internship",
+        "job_description": "Support the design team in creating intuitive and visually appealing user experiences at RoboMatrix Robotics.",
+        "responsibilities": [
+            "Create wireframes and prototypes",
+            "Conduct user research and usability testing",
+            "Collaborate with developers on design implementation",
+            "Maintain design consistency across products"
+        ],
+        "required_skills": [
+            "Figma",
+            "Wireframing",
+            "Prototyping"
+        ],
+        "preferred_skills": [
+            "Adobe XD",
+            "User Research",
+            "Sketch"
+        ],
+        "qualification": "Bachelor's degree in Design, HCI, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in Design, HCI, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB071",
+        "job_title": "Product Management Intern",
+        "company": "SkyLine Aerospace",
+        "location": "Coimbatore, India",
+        "job_type": "Internship",
+        "job_description": "Assist product managers in defining requirements and coordinating product development at SkyLine Aerospace.",
+        "responsibilities": [
+            "Gather and document product requirements",
+            "Coordinate with engineering and design teams",
+            "Analyze user feedback and market trends",
+            "Support product roadmap planning"
+        ],
+        "required_skills": [
+            "Product Research",
+            "Communication",
+            "MS Excel"
+        ],
+        "preferred_skills": [
+            "JIRA",
+            "Agile/Scrum",
+            "Data Analysis"
+        ],
+        "qualification": "Bachelor's degree in Business, Engineering, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in Business, Engineering, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB072",
+        "job_title": "Product Management Intern",
+        "company": "VendorHub Retail",
+        "location": "Indore, India",
+        "job_type": "Internship",
+        "job_description": "Assist product managers in defining requirements and coordinating product development at VendorHub Retail.",
+        "responsibilities": [
+            "Gather and document product requirements",
+            "Coordinate with engineering and design teams",
+            "Analyze user feedback and market trends",
+            "Support product roadmap planning"
+        ],
+        "required_skills": [
+            "Product Research",
+            "Communication",
+            "MS Excel"
+        ],
+        "preferred_skills": [
+            "JIRA",
+            "Agile/Scrum",
+            "Data Analysis"
+        ],
+        "qualification": "Bachelor's degree in Business, Engineering, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in Business, Engineering, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB073",
+        "job_title": "Product Management Intern",
+        "company": "BrightPath Consulting",
+        "location": "Remote, India",
+        "job_type": "Remote Internship",
+        "job_description": "Assist product managers in defining requirements and coordinating product development at BrightPath Consulting.",
+        "responsibilities": [
+            "Gather and document product requirements",
+            "Coordinate with engineering and design teams",
+            "Analyze user feedback and market trends",
+            "Support product roadmap planning"
+        ],
+        "required_skills": [
+            "Product Research",
+            "Communication",
+            "MS Excel"
+        ],
+        "preferred_skills": [
+            "JIRA",
+            "Agile/Scrum",
+            "Data Analysis"
+        ],
+        "qualification": "Bachelor's degree in Business, Engineering, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in Business, Engineering, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB074",
+        "job_title": "Product Management Intern",
+        "company": "Zenith Software Labs",
+        "location": "Hybrid - Bangalore, India",
+        "job_type": "Hybrid Internship",
+        "job_description": "Assist product managers in defining requirements and coordinating product development at Zenith Software Labs.",
+        "responsibilities": [
+            "Gather and document product requirements",
+            "Coordinate with engineering and design teams",
+            "Analyze user feedback and market trends",
+            "Support product roadmap planning"
+        ],
+        "required_skills": [
+            "Product Research",
+            "Communication",
+            "MS Excel"
+        ],
+        "preferred_skills": [
+            "JIRA",
+            "Agile/Scrum",
+            "Data Analysis"
+        ],
+        "qualification": "Bachelor's degree in Business, Engineering, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in Business, Engineering, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB075",
+        "job_title": "Product Management Intern",
+        "company": "Nimbus Cloud Services",
+        "location": "Hybrid - Pune, India",
+        "job_type": "Hybrid Internship",
+        "job_description": "Assist product managers in defining requirements and coordinating product development at Nimbus Cloud Services.",
+        "responsibilities": [
+            "Gather and document product requirements",
+            "Coordinate with engineering and design teams",
+            "Analyze user feedback and market trends",
+            "Support product roadmap planning"
+        ],
+        "required_skills": [
+            "Product Research",
+            "Communication",
+            "MS Excel"
+        ],
+        "preferred_skills": [
+            "JIRA",
+            "Agile/Scrum",
+            "Data Analysis"
+        ],
+        "qualification": "Bachelor's degree in Business, Engineering, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in Business, Engineering, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB076",
+        "job_title": "Business Analyst Intern",
+        "company": "Orbit Digital Media",
+        "location": "Hybrid - Hyderabad, India",
+        "job_type": "Hybrid Internship",
+        "job_description": "Support business analysis activities to help improve processes and decision-making at Orbit Digital Media.",
+        "responsibilities": [
+            "Gather business requirements",
+            "Analyze data to identify improvement areas",
+            "Prepare reports and presentations",
+            "Support project documentation"
+        ],
+        "required_skills": [
+            "Excel",
+            "Data Analysis",
+            "Communication"
+        ],
+        "preferred_skills": [
+            "SQL",
+            "Power BI",
+            "Business Process Modeling"
+        ],
+        "qualification": "Bachelor's degree in Business, Economics, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in Business, Economics, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB077",
+        "job_title": "Business Analyst Intern",
+        "company": "Vertex Data Systems",
+        "location": "Bangalore, India",
+        "job_type": "Internship",
+        "job_description": "Support business analysis activities to help improve processes and decision-making at Vertex Data Systems.",
+        "responsibilities": [
+            "Gather business requirements",
+            "Analyze data to identify improvement areas",
+            "Prepare reports and presentations",
+            "Support project documentation"
+        ],
+        "required_skills": [
+            "Excel",
+            "Data Analysis",
+            "Communication"
+        ],
+        "preferred_skills": [
+            "SQL",
+            "Power BI",
+            "Business Process Modeling"
+        ],
+        "qualification": "Bachelor's degree in Business, Economics, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in Business, Economics, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB078",
+        "job_title": "Business Analyst Intern",
+        "company": "Apex Innovations",
+        "location": "Hyderabad, India",
+        "job_type": "Internship",
+        "job_description": "Support business analysis activities to help improve processes and decision-making at Apex Innovations.",
+        "responsibilities": [
+            "Gather business requirements",
+            "Analyze data to identify improvement areas",
+            "Prepare reports and presentations",
+            "Support project documentation"
+        ],
+        "required_skills": [
+            "Excel",
+            "Data Analysis",
+            "Communication"
+        ],
+        "preferred_skills": [
+            "SQL",
+            "Power BI",
+            "Business Process Modeling"
+        ],
+        "qualification": "Bachelor's degree in Business, Economics, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in Business, Economics, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB079",
+        "job_title": "Business Analyst Intern",
+        "company": "Silverline Technologies",
+        "location": "Pune, India",
+        "job_type": "Internship",
+        "job_description": "Support business analysis activities to help improve processes and decision-making at Silverline Technologies.",
+        "responsibilities": [
+            "Gather business requirements",
+            "Analyze data to identify improvement areas",
+            "Prepare reports and presentations",
+            "Support project documentation"
+        ],
+        "required_skills": [
+            "Excel",
+            "Data Analysis",
+            "Communication"
+        ],
+        "preferred_skills": [
+            "SQL",
+            "Power BI",
+            "Business Process Modeling"
+        ],
+        "qualification": "Bachelor's degree in Business, Economics, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in Business, Economics, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB080",
+        "job_title": "Business Analyst Intern",
+        "company": "Crestline Software",
+        "location": "Mumbai, India",
+        "job_type": "Internship",
+        "job_description": "Support business analysis activities to help improve processes and decision-making at Crestline Software.",
+        "responsibilities": [
+            "Gather business requirements",
+            "Analyze data to identify improvement areas",
+            "Prepare reports and presentations",
+            "Support project documentation"
+        ],
+        "required_skills": [
+            "Excel",
+            "Data Analysis",
+            "Communication"
+        ],
+        "preferred_skills": [
+            "SQL",
+            "Power BI",
+            "Business Process Modeling"
+        ],
+        "qualification": "Bachelor's degree in Business, Economics, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in Business, Economics, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB081",
+        "job_title": "Digital Marketing Intern",
+        "company": "Novatech Systems",
+        "location": "Delhi, India",
+        "job_type": "Internship",
+        "job_description": "Assist the marketing team in planning and executing digital campaigns at Novatech Systems.",
+        "responsibilities": [
+            "Create and schedule social media content",
+            "Assist in running digital ad campaigns",
+            "Track and report campaign performance",
+            "Research market trends and competitors"
+        ],
+        "required_skills": [
+            "Social Media Marketing",
+            "Content Creation",
+            "SEO Basics"
+        ],
+        "preferred_skills": [
+            "Google Analytics",
+            "Google Ads",
+            "Canva"
+        ],
+        "qualification": "Bachelor's degree in Marketing, Business, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in Marketing, Business, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB082",
+        "job_title": "Digital Marketing Intern",
+        "company": "Bluepine Analytics",
+        "location": "Gurugram, India",
+        "job_type": "Internship",
+        "job_description": "Assist the marketing team in planning and executing digital campaigns at Bluepine Analytics.",
+        "responsibilities": [
+            "Create and schedule social media content",
+            "Assist in running digital ad campaigns",
+            "Track and report campaign performance",
+            "Research market trends and competitors"
+        ],
+        "required_skills": [
+            "Social Media Marketing",
+            "Content Creation",
+            "SEO Basics"
+        ],
+        "preferred_skills": [
+            "Google Analytics",
+            "Google Ads",
+            "Canva"
+        ],
+        "qualification": "Bachelor's degree in Marketing, Business, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in Marketing, Business, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB083",
+        "job_title": "Digital Marketing Intern",
+        "company": "Redwood Software Pvt Ltd",
+        "location": "Noida, India",
+        "job_type": "Internship",
+        "job_description": "Assist the marketing team in planning and executing digital campaigns at Redwood Software Pvt Ltd.",
+        "responsibilities": [
+            "Create and schedule social media content",
+            "Assist in running digital ad campaigns",
+            "Track and report campaign performance",
+            "Research market trends and competitors"
+        ],
+        "required_skills": [
+            "Social Media Marketing",
+            "Content Creation",
+            "SEO Basics"
+        ],
+        "preferred_skills": [
+            "Google Analytics",
+            "Google Ads",
+            "Canva"
+        ],
+        "qualification": "Bachelor's degree in Marketing, Business, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in Marketing, Business, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB084",
+        "job_title": "Digital Marketing Intern",
+        "company": "Skyline IT Solutions",
+        "location": "Chennai, India",
+        "job_type": "Internship",
+        "job_description": "Assist the marketing team in planning and executing digital campaigns at Skyline IT Solutions.",
+        "responsibilities": [
+            "Create and schedule social media content",
+            "Assist in running digital ad campaigns",
+            "Track and report campaign performance",
+            "Research market trends and competitors"
+        ],
+        "required_skills": [
+            "Social Media Marketing",
+            "Content Creation",
+            "SEO Basics"
+        ],
+        "preferred_skills": [
+            "Google Analytics",
+            "Google Ads",
+            "Canva"
+        ],
+        "qualification": "Bachelor's degree in Marketing, Business, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in Marketing, Business, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB085",
+        "job_title": "Digital Marketing Intern",
+        "company": "Greenfield Technologies",
+        "location": "Kolkata, India",
+        "job_type": "Internship",
+        "job_description": "Assist the marketing team in planning and executing digital campaigns at Greenfield Technologies.",
+        "responsibilities": [
+            "Create and schedule social media content",
+            "Assist in running digital ad campaigns",
+            "Track and report campaign performance",
+            "Research market trends and competitors"
+        ],
+        "required_skills": [
+            "Social Media Marketing",
+            "Content Creation",
+            "SEO Basics"
+        ],
+        "preferred_skills": [
+            "Google Analytics",
+            "Google Ads",
+            "Canva"
+        ],
+        "qualification": "Bachelor's degree in Marketing, Business, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in Marketing, Business, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB086",
+        "job_title": "Content Writing Intern",
+        "company": "Lumina Software",
+        "location": "Ahmedabad, India",
+        "job_type": "Internship",
+        "job_description": "Support the content team in creating engaging written material for various platforms at Lumina Software.",
+        "responsibilities": [
+            "Write blog posts, articles, and marketing copy",
+            "Edit and proofread content",
+            "Research industry topics and trends",
+            "Optimize content for SEO"
+        ],
+        "required_skills": [
+            "Writing Skills",
+            "Grammar",
+            "Research"
+        ],
+        "preferred_skills": [
+            "SEO Writing",
+            "WordPress",
+            "Content Strategy"
+        ],
+        "qualification": "Bachelor's degree in English, Journalism, Mass Communication, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in English, Journalism, Mass Communication, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB087",
+        "job_title": "Content Writing Intern",
+        "company": "Pinnacle Data Systems",
+        "location": "Jaipur, India",
+        "job_type": "Internship",
+        "job_description": "Support the content team in creating engaging written material for various platforms at Pinnacle Data Systems.",
+        "responsibilities": [
+            "Write blog posts, articles, and marketing copy",
+            "Edit and proofread content",
+            "Research industry topics and trends",
+            "Optimize content for SEO"
+        ],
+        "required_skills": [
+            "Writing Skills",
+            "Grammar",
+            "Research"
+        ],
+        "preferred_skills": [
+            "SEO Writing",
+            "WordPress",
+            "Content Strategy"
+        ],
+        "qualification": "Bachelor's degree in English, Journalism, Mass Communication, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in English, Journalism, Mass Communication, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB088",
+        "job_title": "Content Writing Intern",
+        "company": "Horizon Tech Labs",
+        "location": "Chandigarh, India",
+        "job_type": "Internship",
+        "job_description": "Support the content team in creating engaging written material for various platforms at Horizon Tech Labs.",
+        "responsibilities": [
+            "Write blog posts, articles, and marketing copy",
+            "Edit and proofread content",
+            "Research industry topics and trends",
+            "Optimize content for SEO"
+        ],
+        "required_skills": [
+            "Writing Skills",
+            "Grammar",
+            "Research"
+        ],
+        "preferred_skills": [
+            "SEO Writing",
+            "WordPress",
+            "Content Strategy"
+        ],
+        "qualification": "Bachelor's degree in English, Journalism, Mass Communication, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in English, Journalism, Mass Communication, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB089",
+        "job_title": "Content Writing Intern",
+        "company": "Wavelength Digital",
+        "location": "Kochi, India",
+        "job_type": "Internship",
+        "job_description": "Support the content team in creating engaging written material for various platforms at Wavelength Digital.",
+        "responsibilities": [
+            "Write blog posts, articles, and marketing copy",
+            "Edit and proofread content",
+            "Research industry topics and trends",
+            "Optimize content for SEO"
+        ],
+        "required_skills": [
+            "Writing Skills",
+            "Grammar",
+            "Research"
+        ],
+        "preferred_skills": [
+            "SEO Writing",
+            "WordPress",
+            "Content Strategy"
+        ],
+        "qualification": "Bachelor's degree in English, Journalism, Mass Communication, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in English, Journalism, Mass Communication, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB090",
+        "job_title": "Content Writing Intern",
+        "company": "Northstar Analytics",
+        "location": "Coimbatore, India",
+        "job_type": "Internship",
+        "job_description": "Support the content team in creating engaging written material for various platforms at Northstar Analytics.",
+        "responsibilities": [
+            "Write blog posts, articles, and marketing copy",
+            "Edit and proofread content",
+            "Research industry topics and trends",
+            "Optimize content for SEO"
+        ],
+        "required_skills": [
+            "Writing Skills",
+            "Grammar",
+            "Research"
+        ],
+        "preferred_skills": [
+            "SEO Writing",
+            "WordPress",
+            "Content Strategy"
+        ],
+        "qualification": "Bachelor's degree in English, Journalism, Mass Communication, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in English, Journalism, Mass Communication, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB091",
+        "job_title": "HR Intern",
+        "company": "Elevate Software Solutions",
+        "location": "Indore, India",
+        "job_type": "Internship",
+        "job_description": "Assist the HR team with recruitment, onboarding, and employee engagement activities at Elevate Software Solutions.",
+        "responsibilities": [
+            "Screen resumes and schedule interviews",
+            "Assist in onboarding new employees",
+            "Support employee engagement initiatives",
+            "Maintain HR records and documentation"
+        ],
+        "required_skills": [
+            "Communication",
+            "MS Office",
+            "Interpersonal Skills"
+        ],
+        "preferred_skills": [
+            "Applicant Tracking Systems",
+            "HRIS",
+            "Recruitment"
+        ],
+        "qualification": "Bachelor's degree in Human Resources, Business, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in Human Resources, Business, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB092",
+        "job_title": "HR Intern",
+        "company": "TrueNorth Systems",
+        "location": "Remote, India",
+        "job_type": "Remote Internship",
+        "job_description": "Assist the HR team with recruitment, onboarding, and employee engagement activities at TrueNorth Systems.",
+        "responsibilities": [
+            "Screen resumes and schedule interviews",
+            "Assist in onboarding new employees",
+            "Support employee engagement initiatives",
+            "Maintain HR records and documentation"
+        ],
+        "required_skills": [
+            "Communication",
+            "MS Office",
+            "Interpersonal Skills"
+        ],
+        "preferred_skills": [
+            "Applicant Tracking Systems",
+            "HRIS",
+            "Recruitment"
+        ],
+        "qualification": "Bachelor's degree in Human Resources, Business, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in Human Resources, Business, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB093",
+        "job_title": "HR Intern",
+        "company": "BrightSpark Technologies",
+        "location": "Hybrid - Bangalore, India",
+        "job_type": "Hybrid Internship",
+        "job_description": "Assist the HR team with recruitment, onboarding, and employee engagement activities at BrightSpark Technologies.",
+        "responsibilities": [
+            "Screen resumes and schedule interviews",
+            "Assist in onboarding new employees",
+            "Support employee engagement initiatives",
+            "Maintain HR records and documentation"
+        ],
+        "required_skills": [
+            "Communication",
+            "MS Office",
+            "Interpersonal Skills"
+        ],
+        "preferred_skills": [
+            "Applicant Tracking Systems",
+            "HRIS",
+            "Recruitment"
+        ],
+        "qualification": "Bachelor's degree in Human Resources, Business, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in Human Resources, Business, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB094",
+        "job_title": "HR Intern",
+        "company": "Infinity Cloud Labs",
+        "location": "Hybrid - Pune, India",
+        "job_type": "Hybrid Internship",
+        "job_description": "Assist the HR team with recruitment, onboarding, and employee engagement activities at Infinity Cloud Labs.",
+        "responsibilities": [
+            "Screen resumes and schedule interviews",
+            "Assist in onboarding new employees",
+            "Support employee engagement initiatives",
+            "Maintain HR records and documentation"
+        ],
+        "required_skills": [
+            "Communication",
+            "MS Office",
+            "Interpersonal Skills"
+        ],
+        "preferred_skills": [
+            "Applicant Tracking Systems",
+            "HRIS",
+            "Recruitment"
+        ],
+        "qualification": "Bachelor's degree in Human Resources, Business, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in Human Resources, Business, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB095",
+        "job_title": "HR Intern",
+        "company": "Meridian Software",
+        "location": "Hybrid - Hyderabad, India",
+        "job_type": "Hybrid Internship",
+        "job_description": "Assist the HR team with recruitment, onboarding, and employee engagement activities at Meridian Software.",
+        "responsibilities": [
+            "Screen resumes and schedule interviews",
+            "Assist in onboarding new employees",
+            "Support employee engagement initiatives",
+            "Maintain HR records and documentation"
+        ],
+        "required_skills": [
+            "Communication",
+            "MS Office",
+            "Interpersonal Skills"
+        ],
+        "preferred_skills": [
+            "Applicant Tracking Systems",
+            "HRIS",
+            "Recruitment"
+        ],
+        "qualification": "Bachelor's degree in Human Resources, Business, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in Human Resources, Business, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB096",
+        "job_title": "Finance Intern",
+        "company": "Catalyst Innovations",
+        "location": "Bangalore, India",
+        "job_type": "Internship",
+        "job_description": "Support the finance team with financial analysis, reporting, and reconciliation tasks at Catalyst Innovations.",
+        "responsibilities": [
+            "Assist in preparing financial reports",
+            "Support budget tracking and reconciliation",
+            "Analyze financial data and trends",
+            "Maintain accurate financial records"
+        ],
+        "required_skills": [
+            "Excel",
+            "Accounting Basics",
+            "Financial Analysis"
+        ],
+        "preferred_skills": [
+            "Tally",
+            "SAP",
+            "Financial Modeling"
+        ],
+        "qualification": "B.Com/BBA/MBA in Finance or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Com/BBA/MBA in Finance or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB097",
+        "job_title": "Finance Intern",
+        "company": "Momentum Tech",
+        "location": "Hyderabad, India",
+        "job_type": "Internship",
+        "job_description": "Support the finance team with financial analysis, reporting, and reconciliation tasks at Momentum Tech.",
+        "responsibilities": [
+            "Assist in preparing financial reports",
+            "Support budget tracking and reconciliation",
+            "Analyze financial data and trends",
+            "Maintain accurate financial records"
+        ],
+        "required_skills": [
+            "Excel",
+            "Accounting Basics",
+            "Financial Analysis"
+        ],
+        "preferred_skills": [
+            "Tally",
+            "SAP",
+            "Financial Modeling"
+        ],
+        "qualification": "B.Com/BBA/MBA in Finance or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Com/BBA/MBA in Finance or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB098",
+        "job_title": "Finance Intern",
+        "company": "Stratosphere Systems",
+        "location": "Pune, India",
+        "job_type": "Internship",
+        "job_description": "Support the finance team with financial analysis, reporting, and reconciliation tasks at Stratosphere Systems.",
+        "responsibilities": [
+            "Assist in preparing financial reports",
+            "Support budget tracking and reconciliation",
+            "Analyze financial data and trends",
+            "Maintain accurate financial records"
+        ],
+        "required_skills": [
+            "Excel",
+            "Accounting Basics",
+            "Financial Analysis"
+        ],
+        "preferred_skills": [
+            "Tally",
+            "SAP",
+            "Financial Modeling"
+        ],
+        "qualification": "B.Com/BBA/MBA in Finance or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Com/BBA/MBA in Finance or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB099",
+        "job_title": "Finance Intern",
+        "company": "Clearwater Analytics",
+        "location": "Mumbai, India",
+        "job_type": "Internship",
+        "job_description": "Support the finance team with financial analysis, reporting, and reconciliation tasks at Clearwater Analytics.",
+        "responsibilities": [
+            "Assist in preparing financial reports",
+            "Support budget tracking and reconciliation",
+            "Analyze financial data and trends",
+            "Maintain accurate financial records"
+        ],
+        "required_skills": [
+            "Excel",
+            "Accounting Basics",
+            "Financial Analysis"
+        ],
+        "preferred_skills": [
+            "Tally",
+            "SAP",
+            "Financial Modeling"
+        ],
+        "qualification": "B.Com/BBA/MBA in Finance or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Com/BBA/MBA in Finance or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB100",
+        "job_title": "Finance Intern",
+        "company": "Ironclad Security Solutions",
+        "location": "Delhi, India",
+        "job_type": "Internship",
+        "job_description": "Support the finance team with financial analysis, reporting, and reconciliation tasks at Ironclad Security Solutions.",
+        "responsibilities": [
+            "Assist in preparing financial reports",
+            "Support budget tracking and reconciliation",
+            "Analyze financial data and trends",
+            "Maintain accurate financial records"
+        ],
+        "required_skills": [
+            "Excel",
+            "Accounting Basics",
+            "Financial Analysis"
+        ],
+        "preferred_skills": [
+            "Tally",
+            "SAP",
+            "Financial Modeling"
+        ],
+        "qualification": "B.Com/BBA/MBA in Finance or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Com/BBA/MBA in Finance or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB101",
+        "job_title": "Sales Intern",
+        "company": "Example Technologies",
+        "location": "Gurugram, India",
+        "job_type": "Internship",
+        "job_description": "Support the sales team in generating leads and closing deals at Example Technologies.",
+        "responsibilities": [
+            "Identify and qualify potential leads",
+            "Assist in preparing sales pitches and proposals",
+            "Maintain CRM records",
+            "Support the sales team in client follow-ups"
+        ],
+        "required_skills": [
+            "Communication",
+            "Negotiation",
+            "MS Office"
+        ],
+        "preferred_skills": [
+            "CRM Tools",
+            "Lead Generation",
+            "Cold Calling"
+        ],
+        "qualification": "Bachelor's degree in Business, Marketing, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in Business, Marketing, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB102",
+        "job_title": "Sales Intern",
+        "company": "NextGen Analytics",
+        "location": "Noida, India",
+        "job_type": "Internship",
+        "job_description": "Support the sales team in generating leads and closing deals at NextGen Analytics.",
+        "responsibilities": [
+            "Identify and qualify potential leads",
+            "Assist in preparing sales pitches and proposals",
+            "Maintain CRM records",
+            "Support the sales team in client follow-ups"
+        ],
+        "required_skills": [
+            "Communication",
+            "Negotiation",
+            "MS Office"
+        ],
+        "preferred_skills": [
+            "CRM Tools",
+            "Lead Generation",
+            "Cold Calling"
+        ],
+        "qualification": "Bachelor's degree in Business, Marketing, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in Business, Marketing, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB103",
+        "job_title": "Sales Intern",
+        "company": "BlueWave Software",
+        "location": "Chennai, India",
+        "job_type": "Internship",
+        "job_description": "Support the sales team in generating leads and closing deals at BlueWave Software.",
+        "responsibilities": [
+            "Identify and qualify potential leads",
+            "Assist in preparing sales pitches and proposals",
+            "Maintain CRM records",
+            "Support the sales team in client follow-ups"
+        ],
+        "required_skills": [
+            "Communication",
+            "Negotiation",
+            "MS Office"
+        ],
+        "preferred_skills": [
+            "CRM Tools",
+            "Lead Generation",
+            "Cold Calling"
+        ],
+        "qualification": "Bachelor's degree in Business, Marketing, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in Business, Marketing, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB104",
+        "job_title": "Sales Intern",
+        "company": "TechNova Solutions",
+        "location": "Kolkata, India",
+        "job_type": "Internship",
+        "job_description": "Support the sales team in generating leads and closing deals at TechNova Solutions.",
+        "responsibilities": [
+            "Identify and qualify potential leads",
+            "Assist in preparing sales pitches and proposals",
+            "Maintain CRM records",
+            "Support the sales team in client follow-ups"
+        ],
+        "required_skills": [
+            "Communication",
+            "Negotiation",
+            "MS Office"
+        ],
+        "preferred_skills": [
+            "CRM Tools",
+            "Lead Generation",
+            "Cold Calling"
+        ],
+        "qualification": "Bachelor's degree in Business, Marketing, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in Business, Marketing, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB105",
+        "job_title": "Sales Intern",
+        "company": "Innovate Labs",
+        "location": "Ahmedabad, India",
+        "job_type": "Internship",
+        "job_description": "Support the sales team in generating leads and closing deals at Innovate Labs.",
+        "responsibilities": [
+            "Identify and qualify potential leads",
+            "Assist in preparing sales pitches and proposals",
+            "Maintain CRM records",
+            "Support the sales team in client follow-ups"
+        ],
+        "required_skills": [
+            "Communication",
+            "Negotiation",
+            "MS Office"
+        ],
+        "preferred_skills": [
+            "CRM Tools",
+            "Lead Generation",
+            "Cold Calling"
+        ],
+        "qualification": "Bachelor's degree in Business, Marketing, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in Business, Marketing, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB106",
+        "job_title": "Graphic Design Intern",
+        "company": "CodeCraft Systems",
+        "location": "Jaipur, India",
+        "job_type": "Internship",
+        "job_description": "Assist the design team in creating visual content for marketing and branding at CodeCraft Systems.",
+        "responsibilities": [
+            "Design graphics for social media and marketing",
+            "Create branding materials",
+            "Collaborate with marketing team on visual campaigns",
+            "Maintain brand consistency across designs"
+        ],
+        "required_skills": [
+            "Adobe Photoshop",
+            "Adobe Illustrator",
+            "Creativity"
+        ],
+        "preferred_skills": [
+            "Canva",
+            "Motion Graphics",
+            "Branding"
+        ],
+        "qualification": "Bachelor's degree in Design, Fine Arts, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in Design, Fine Arts, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB107",
+        "job_title": "Graphic Design Intern",
+        "company": "DataSphere Inc",
+        "location": "Chandigarh, India",
+        "job_type": "Internship",
+        "job_description": "Assist the design team in creating visual content for marketing and branding at DataSphere Inc.",
+        "responsibilities": [
+            "Design graphics for social media and marketing",
+            "Create branding materials",
+            "Collaborate with marketing team on visual campaigns",
+            "Maintain brand consistency across designs"
+        ],
+        "required_skills": [
+            "Adobe Photoshop",
+            "Adobe Illustrator",
+            "Creativity"
+        ],
+        "preferred_skills": [
+            "Canva",
+            "Motion Graphics",
+            "Branding"
+        ],
+        "qualification": "Bachelor's degree in Design, Fine Arts, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in Design, Fine Arts, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB108",
+        "job_title": "Graphic Design Intern",
+        "company": "CloudPeak Technologies",
+        "location": "Kochi, India",
+        "job_type": "Internship",
+        "job_description": "Assist the design team in creating visual content for marketing and branding at CloudPeak Technologies.",
+        "responsibilities": [
+            "Design graphics for social media and marketing",
+            "Create branding materials",
+            "Collaborate with marketing team on visual campaigns",
+            "Maintain brand consistency across designs"
+        ],
+        "required_skills": [
+            "Adobe Photoshop",
+            "Adobe Illustrator",
+            "Creativity"
+        ],
+        "preferred_skills": [
+            "Canva",
+            "Motion Graphics",
+            "Branding"
+        ],
+        "qualification": "Bachelor's degree in Design, Fine Arts, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in Design, Fine Arts, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB109",
+        "job_title": "Graphic Design Intern",
+        "company": "ByteForge Software",
+        "location": "Coimbatore, India",
+        "job_type": "Internship",
+        "job_description": "Assist the design team in creating visual content for marketing and branding at ByteForge Software.",
+        "responsibilities": [
+            "Design graphics for social media and marketing",
+            "Create branding materials",
+            "Collaborate with marketing team on visual campaigns",
+            "Maintain brand consistency across designs"
+        ],
+        "required_skills": [
+            "Adobe Photoshop",
+            "Adobe Illustrator",
+            "Creativity"
+        ],
+        "preferred_skills": [
+            "Canva",
+            "Motion Graphics",
+            "Branding"
+        ],
+        "qualification": "Bachelor's degree in Design, Fine Arts, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in Design, Fine Arts, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB110",
+        "job_title": "Graphic Design Intern",
+        "company": "Quantum Analytics",
+        "location": "Indore, India",
+        "job_type": "Internship",
+        "job_description": "Assist the design team in creating visual content for marketing and branding at Quantum Analytics.",
+        "responsibilities": [
+            "Design graphics for social media and marketing",
+            "Create branding materials",
+            "Collaborate with marketing team on visual campaigns",
+            "Maintain brand consistency across designs"
+        ],
+        "required_skills": [
+            "Adobe Photoshop",
+            "Adobe Illustrator",
+            "Creativity"
+        ],
+        "preferred_skills": [
+            "Canva",
+            "Motion Graphics",
+            "Branding"
+        ],
+        "qualification": "Bachelor's degree in Design, Fine Arts, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in Design, Fine Arts, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB111",
+        "job_title": "Embedded Systems Intern",
+        "company": "PixelWorks Studio",
+        "location": "Remote, India",
+        "job_type": "Remote Internship",
+        "job_description": "Support the hardware team in developing and testing embedded systems at PixelWorks Studio.",
+        "responsibilities": [
+            "Develop firmware for embedded devices",
+            "Test and debug hardware-software integration",
+            "Assist in circuit design and prototyping",
+            "Document technical specifications"
+        ],
+        "required_skills": [
+            "C Programming",
+            "Microcontrollers",
+            "Circuit Design"
+        ],
+        "preferred_skills": [
+            "Embedded C",
+            "RTOS",
+            "PCB Design"
+        ],
+        "qualification": "B.Tech/B.E. in Electronics, Electrical, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Electronics, Electrical, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB112",
+        "job_title": "Embedded Systems Intern",
+        "company": "GreenTech Innovations",
+        "location": "Hybrid - Bangalore, India",
+        "job_type": "Hybrid Internship",
+        "job_description": "Support the hardware team in developing and testing embedded systems at GreenTech Innovations.",
+        "responsibilities": [
+            "Develop firmware for embedded devices",
+            "Test and debug hardware-software integration",
+            "Assist in circuit design and prototyping",
+            "Document technical specifications"
+        ],
+        "required_skills": [
+            "C Programming",
+            "Microcontrollers",
+            "Circuit Design"
+        ],
+        "preferred_skills": [
+            "Embedded C",
+            "RTOS",
+            "PCB Design"
+        ],
+        "qualification": "B.Tech/B.E. in Electronics, Electrical, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Electronics, Electrical, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB113",
+        "job_title": "Embedded Systems Intern",
+        "company": "FinEdge Solutions",
+        "location": "Hybrid - Pune, India",
+        "job_type": "Hybrid Internship",
+        "job_description": "Support the hardware team in developing and testing embedded systems at FinEdge Solutions.",
+        "responsibilities": [
+            "Develop firmware for embedded devices",
+            "Test and debug hardware-software integration",
+            "Assist in circuit design and prototyping",
+            "Document technical specifications"
+        ],
+        "required_skills": [
+            "C Programming",
+            "Microcontrollers",
+            "Circuit Design"
+        ],
+        "preferred_skills": [
+            "Embedded C",
+            "RTOS",
+            "PCB Design"
+        ],
+        "qualification": "B.Tech/B.E. in Electronics, Electrical, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Electronics, Electrical, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB114",
+        "job_title": "Embedded Systems Intern",
+        "company": "MarketMinds Digital",
+        "location": "Hybrid - Hyderabad, India",
+        "job_type": "Hybrid Internship",
+        "job_description": "Support the hardware team in developing and testing embedded systems at MarketMinds Digital.",
+        "responsibilities": [
+            "Develop firmware for embedded devices",
+            "Test and debug hardware-software integration",
+            "Assist in circuit design and prototyping",
+            "Document technical specifications"
+        ],
+        "required_skills": [
+            "C Programming",
+            "Microcontrollers",
+            "Circuit Design"
+        ],
+        "preferred_skills": [
+            "Embedded C",
+            "RTOS",
+            "PCB Design"
+        ],
+        "qualification": "B.Tech/B.E. in Electronics, Electrical, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Electronics, Electrical, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB115",
+        "job_title": "Embedded Systems Intern",
+        "company": "HealthBridge Systems",
+        "location": "Bangalore, India",
+        "job_type": "Internship",
+        "job_description": "Support the hardware team in developing and testing embedded systems at HealthBridge Systems.",
+        "responsibilities": [
+            "Develop firmware for embedded devices",
+            "Test and debug hardware-software integration",
+            "Assist in circuit design and prototyping",
+            "Document technical specifications"
+        ],
+        "required_skills": [
+            "C Programming",
+            "Microcontrollers",
+            "Circuit Design"
+        ],
+        "preferred_skills": [
+            "Embedded C",
+            "RTOS",
+            "PCB Design"
+        ],
+        "qualification": "B.Tech/B.E. in Electronics, Electrical, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Electronics, Electrical, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB116",
+        "job_title": "Blockchain Developer Intern",
+        "company": "UrbanLogix Pvt Ltd",
+        "location": "Hyderabad, India",
+        "job_type": "Internship",
+        "job_description": "Assist in building and testing blockchain-based applications at UrbanLogix Pvt Ltd.",
+        "responsibilities": [
+            "Develop and test smart contracts",
+            "Assist in building decentralized applications",
+            "Research blockchain protocols",
+            "Document blockchain architecture"
+        ],
+        "required_skills": [
+            "Solidity",
+            "Blockchain Fundamentals",
+            "JavaScript"
+        ],
+        "preferred_skills": [
+            "Ethereum",
+            "Smart Contracts",
+            "Web3.js"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB117",
+        "job_title": "Blockchain Developer Intern",
+        "company": "SecureNet Technologies",
+        "location": "Pune, India",
+        "job_type": "Internship",
+        "job_description": "Assist in building and testing blockchain-based applications at SecureNet Technologies.",
+        "responsibilities": [
+            "Develop and test smart contracts",
+            "Assist in building decentralized applications",
+            "Research blockchain protocols",
+            "Document blockchain architecture"
+        ],
+        "required_skills": [
+            "Solidity",
+            "Blockchain Fundamentals",
+            "JavaScript"
+        ],
+        "preferred_skills": [
+            "Ethereum",
+            "Smart Contracts",
+            "Web3.js"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB118",
+        "job_title": "Blockchain Developer Intern",
+        "company": "AgroTech Ventures",
+        "location": "Mumbai, India",
+        "job_type": "Internship",
+        "job_description": "Assist in building and testing blockchain-based applications at AgroTech Ventures.",
+        "responsibilities": [
+            "Develop and test smart contracts",
+            "Assist in building decentralized applications",
+            "Research blockchain protocols",
+            "Document blockchain architecture"
+        ],
+        "required_skills": [
+            "Solidity",
+            "Blockchain Fundamentals",
+            "JavaScript"
+        ],
+        "preferred_skills": [
+            "Ethereum",
+            "Smart Contracts",
+            "Web3.js"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB119",
+        "job_title": "Blockchain Developer Intern",
+        "company": "EduSpark Learning",
+        "location": "Delhi, India",
+        "job_type": "Internship",
+        "job_description": "Assist in building and testing blockchain-based applications at EduSpark Learning.",
+        "responsibilities": [
+            "Develop and test smart contracts",
+            "Assist in building decentralized applications",
+            "Research blockchain protocols",
+            "Document blockchain architecture"
+        ],
+        "required_skills": [
+            "Solidity",
+            "Blockchain Fundamentals",
+            "JavaScript"
+        ],
+        "preferred_skills": [
+            "Ethereum",
+            "Smart Contracts",
+            "Web3.js"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB120",
+        "job_title": "Blockchain Developer Intern",
+        "company": "RoboMatrix Robotics",
+        "location": "Gurugram, India",
+        "job_type": "Internship",
+        "job_description": "Assist in building and testing blockchain-based applications at RoboMatrix Robotics.",
+        "responsibilities": [
+            "Develop and test smart contracts",
+            "Assist in building decentralized applications",
+            "Research blockchain protocols",
+            "Document blockchain architecture"
+        ],
+        "required_skills": [
+            "Solidity",
+            "Blockchain Fundamentals",
+            "JavaScript"
+        ],
+        "preferred_skills": [
+            "Ethereum",
+            "Smart Contracts",
+            "Web3.js"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB121",
+        "job_title": "Game Development Intern",
+        "company": "SkyLine Aerospace",
+        "location": "Noida, India",
+        "job_type": "Internship",
+        "job_description": "Support the game development team in building and testing interactive games at SkyLine Aerospace.",
+        "responsibilities": [
+            "Develop game mechanics and features",
+            "Test and debug game builds",
+            "Collaborate with artists and designers",
+            "Optimize game performance"
+        ],
+        "required_skills": [
+            "C#",
+            "Unity",
+            "Game Design Basics"
+        ],
+        "preferred_skills": [
+            "Unreal Engine",
+            "3D Modeling",
+            "Animation"
+        ],
+        "qualification": "B.Tech/B.E./BCA in Computer Science or Game Design",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./BCA in Computer Science or Game Design",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB122",
+        "job_title": "Game Development Intern",
+        "company": "VendorHub Retail",
+        "location": "Chennai, India",
+        "job_type": "Internship",
+        "job_description": "Support the game development team in building and testing interactive games at VendorHub Retail.",
+        "responsibilities": [
+            "Develop game mechanics and features",
+            "Test and debug game builds",
+            "Collaborate with artists and designers",
+            "Optimize game performance"
+        ],
+        "required_skills": [
+            "C#",
+            "Unity",
+            "Game Design Basics"
+        ],
+        "preferred_skills": [
+            "Unreal Engine",
+            "3D Modeling",
+            "Animation"
+        ],
+        "qualification": "B.Tech/B.E./BCA in Computer Science or Game Design",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./BCA in Computer Science or Game Design",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB123",
+        "job_title": "Game Development Intern",
+        "company": "BrightPath Consulting",
+        "location": "Kolkata, India",
+        "job_type": "Internship",
+        "job_description": "Support the game development team in building and testing interactive games at BrightPath Consulting.",
+        "responsibilities": [
+            "Develop game mechanics and features",
+            "Test and debug game builds",
+            "Collaborate with artists and designers",
+            "Optimize game performance"
+        ],
+        "required_skills": [
+            "C#",
+            "Unity",
+            "Game Design Basics"
+        ],
+        "preferred_skills": [
+            "Unreal Engine",
+            "3D Modeling",
+            "Animation"
+        ],
+        "qualification": "B.Tech/B.E./BCA in Computer Science or Game Design",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./BCA in Computer Science or Game Design",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB124",
+        "job_title": "Game Development Intern",
+        "company": "Zenith Software Labs",
+        "location": "Ahmedabad, India",
+        "job_type": "Internship",
+        "job_description": "Support the game development team in building and testing interactive games at Zenith Software Labs.",
+        "responsibilities": [
+            "Develop game mechanics and features",
+            "Test and debug game builds",
+            "Collaborate with artists and designers",
+            "Optimize game performance"
+        ],
+        "required_skills": [
+            "C#",
+            "Unity",
+            "Game Design Basics"
+        ],
+        "preferred_skills": [
+            "Unreal Engine",
+            "3D Modeling",
+            "Animation"
+        ],
+        "qualification": "B.Tech/B.E./BCA in Computer Science or Game Design",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./BCA in Computer Science or Game Design",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB125",
+        "job_title": "Game Development Intern",
+        "company": "Nimbus Cloud Services",
+        "location": "Jaipur, India",
+        "job_type": "Internship",
+        "job_description": "Support the game development team in building and testing interactive games at Nimbus Cloud Services.",
+        "responsibilities": [
+            "Develop game mechanics and features",
+            "Test and debug game builds",
+            "Collaborate with artists and designers",
+            "Optimize game performance"
+        ],
+        "required_skills": [
+            "C#",
+            "Unity",
+            "Game Design Basics"
+        ],
+        "preferred_skills": [
+            "Unreal Engine",
+            "3D Modeling",
+            "Animation"
+        ],
+        "qualification": "B.Tech/B.E./BCA in Computer Science or Game Design",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./BCA in Computer Science or Game Design",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB126",
+        "job_title": "AI Research Intern",
+        "company": "Orbit Digital Media",
+        "location": "Chandigarh, India",
+        "job_type": "Internship",
+        "job_description": "Assist the research team in exploring and developing new AI algorithms and models at Orbit Digital Media.",
+        "responsibilities": [
+            "Research and implement AI algorithms",
+            "Run experiments and analyze results",
+            "Document research findings",
+            "Collaborate with senior researchers"
+        ],
+        "required_skills": [
+            "Python",
+            "Deep Learning",
+            "Mathematics"
+        ],
+        "preferred_skills": [
+            "TensorFlow",
+            "PyTorch",
+            "Research Writing"
+        ],
+        "qualification": "B.Tech/B.E./M.Tech in Computer Science, AI, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./M.Tech in Computer Science, AI, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB127",
+        "job_title": "AI Research Intern",
+        "company": "Vertex Data Systems",
+        "location": "Kochi, India",
+        "job_type": "Internship",
+        "job_description": "Assist the research team in exploring and developing new AI algorithms and models at Vertex Data Systems.",
+        "responsibilities": [
+            "Research and implement AI algorithms",
+            "Run experiments and analyze results",
+            "Document research findings",
+            "Collaborate with senior researchers"
+        ],
+        "required_skills": [
+            "Python",
+            "Deep Learning",
+            "Mathematics"
+        ],
+        "preferred_skills": [
+            "TensorFlow",
+            "PyTorch",
+            "Research Writing"
+        ],
+        "qualification": "B.Tech/B.E./M.Tech in Computer Science, AI, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./M.Tech in Computer Science, AI, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB128",
+        "job_title": "AI Research Intern",
+        "company": "Apex Innovations",
+        "location": "Coimbatore, India",
+        "job_type": "Internship",
+        "job_description": "Assist the research team in exploring and developing new AI algorithms and models at Apex Innovations.",
+        "responsibilities": [
+            "Research and implement AI algorithms",
+            "Run experiments and analyze results",
+            "Document research findings",
+            "Collaborate with senior researchers"
+        ],
+        "required_skills": [
+            "Python",
+            "Deep Learning",
+            "Mathematics"
+        ],
+        "preferred_skills": [
+            "TensorFlow",
+            "PyTorch",
+            "Research Writing"
+        ],
+        "qualification": "B.Tech/B.E./M.Tech in Computer Science, AI, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./M.Tech in Computer Science, AI, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB129",
+        "job_title": "AI Research Intern",
+        "company": "Silverline Technologies",
+        "location": "Indore, India",
+        "job_type": "Internship",
+        "job_description": "Assist the research team in exploring and developing new AI algorithms and models at Silverline Technologies.",
+        "responsibilities": [
+            "Research and implement AI algorithms",
+            "Run experiments and analyze results",
+            "Document research findings",
+            "Collaborate with senior researchers"
+        ],
+        "required_skills": [
+            "Python",
+            "Deep Learning",
+            "Mathematics"
+        ],
+        "preferred_skills": [
+            "TensorFlow",
+            "PyTorch",
+            "Research Writing"
+        ],
+        "qualification": "B.Tech/B.E./M.Tech in Computer Science, AI, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./M.Tech in Computer Science, AI, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB130",
+        "job_title": "AI Research Intern",
+        "company": "Crestline Software",
+        "location": "Remote, India",
+        "job_type": "Remote Internship",
+        "job_description": "Assist the research team in exploring and developing new AI algorithms and models at Crestline Software.",
+        "responsibilities": [
+            "Research and implement AI algorithms",
+            "Run experiments and analyze results",
+            "Document research findings",
+            "Collaborate with senior researchers"
+        ],
+        "required_skills": [
+            "Python",
+            "Deep Learning",
+            "Mathematics"
+        ],
+        "preferred_skills": [
+            "TensorFlow",
+            "PyTorch",
+            "Research Writing"
+        ],
+        "qualification": "B.Tech/B.E./M.Tech in Computer Science, AI, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./M.Tech in Computer Science, AI, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB131",
+        "job_title": "Data Engineering Intern",
+        "company": "Novatech Systems",
+        "location": "Hybrid - Bangalore, India",
+        "job_type": "Hybrid Internship",
+        "job_description": "Support the data engineering team in building and maintaining data pipelines at Novatech Systems.",
+        "responsibilities": [
+            "Build and maintain data pipelines",
+            "Ensure data quality and integrity",
+            "Optimize data storage and retrieval",
+            "Collaborate with data science teams"
+        ],
+        "required_skills": [
+            "Python",
+            "SQL",
+            "ETL"
+        ],
+        "preferred_skills": [
+            "Apache Spark",
+            "Airflow",
+            "AWS"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB132",
+        "job_title": "Data Engineering Intern",
+        "company": "Bluepine Analytics",
+        "location": "Hybrid - Pune, India",
+        "job_type": "Hybrid Internship",
+        "job_description": "Support the data engineering team in building and maintaining data pipelines at Bluepine Analytics.",
+        "responsibilities": [
+            "Build and maintain data pipelines",
+            "Ensure data quality and integrity",
+            "Optimize data storage and retrieval",
+            "Collaborate with data science teams"
+        ],
+        "required_skills": [
+            "Python",
+            "SQL",
+            "ETL"
+        ],
+        "preferred_skills": [
+            "Apache Spark",
+            "Airflow",
+            "AWS"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB133",
+        "job_title": "Data Engineering Intern",
+        "company": "Redwood Software Pvt Ltd",
+        "location": "Hybrid - Hyderabad, India",
+        "job_type": "Hybrid Internship",
+        "job_description": "Support the data engineering team in building and maintaining data pipelines at Redwood Software Pvt Ltd.",
+        "responsibilities": [
+            "Build and maintain data pipelines",
+            "Ensure data quality and integrity",
+            "Optimize data storage and retrieval",
+            "Collaborate with data science teams"
+        ],
+        "required_skills": [
+            "Python",
+            "SQL",
+            "ETL"
+        ],
+        "preferred_skills": [
+            "Apache Spark",
+            "Airflow",
+            "AWS"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB134",
+        "job_title": "Data Engineering Intern",
+        "company": "Skyline IT Solutions",
+        "location": "Bangalore, India",
+        "job_type": "Internship",
+        "job_description": "Support the data engineering team in building and maintaining data pipelines at Skyline IT Solutions.",
+        "responsibilities": [
+            "Build and maintain data pipelines",
+            "Ensure data quality and integrity",
+            "Optimize data storage and retrieval",
+            "Collaborate with data science teams"
+        ],
+        "required_skills": [
+            "Python",
+            "SQL",
+            "ETL"
+        ],
+        "preferred_skills": [
+            "Apache Spark",
+            "Airflow",
+            "AWS"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB135",
+        "job_title": "Data Engineering Intern",
+        "company": "Greenfield Technologies",
+        "location": "Hyderabad, India",
+        "job_type": "Internship",
+        "job_description": "Support the data engineering team in building and maintaining data pipelines at Greenfield Technologies.",
+        "responsibilities": [
+            "Build and maintain data pipelines",
+            "Ensure data quality and integrity",
+            "Optimize data storage and retrieval",
+            "Collaborate with data science teams"
+        ],
+        "required_skills": [
+            "Python",
+            "SQL",
+            "ETL"
+        ],
+        "preferred_skills": [
+            "Apache Spark",
+            "Airflow",
+            "AWS"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB136",
+        "job_title": "Network Engineering Intern",
+        "company": "Lumina Software",
+        "location": "Pune, India",
+        "job_type": "Internship",
+        "job_description": "Assist the IT infrastructure team in managing and monitoring network systems at Lumina Software.",
+        "responsibilities": [
+            "Monitor and maintain network infrastructure",
+            "Troubleshoot network issues",
+            "Assist in network configuration",
+            "Document network architecture"
+        ],
+        "required_skills": [
+            "Networking Basics",
+            "TCP/IP",
+            "Routing and Switching"
+        ],
+        "preferred_skills": [
+            "Cisco",
+            "Network Security",
+            "CCNA"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science, IT, or Electronics",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science, IT, or Electronics",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB137",
+        "job_title": "Network Engineering Intern",
+        "company": "Pinnacle Data Systems",
+        "location": "Mumbai, India",
+        "job_type": "Internship",
+        "job_description": "Assist the IT infrastructure team in managing and monitoring network systems at Pinnacle Data Systems.",
+        "responsibilities": [
+            "Monitor and maintain network infrastructure",
+            "Troubleshoot network issues",
+            "Assist in network configuration",
+            "Document network architecture"
+        ],
+        "required_skills": [
+            "Networking Basics",
+            "TCP/IP",
+            "Routing and Switching"
+        ],
+        "preferred_skills": [
+            "Cisco",
+            "Network Security",
+            "CCNA"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science, IT, or Electronics",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science, IT, or Electronics",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB138",
+        "job_title": "Network Engineering Intern",
+        "company": "Horizon Tech Labs",
+        "location": "Delhi, India",
+        "job_type": "Internship",
+        "job_description": "Assist the IT infrastructure team in managing and monitoring network systems at Horizon Tech Labs.",
+        "responsibilities": [
+            "Monitor and maintain network infrastructure",
+            "Troubleshoot network issues",
+            "Assist in network configuration",
+            "Document network architecture"
+        ],
+        "required_skills": [
+            "Networking Basics",
+            "TCP/IP",
+            "Routing and Switching"
+        ],
+        "preferred_skills": [
+            "Cisco",
+            "Network Security",
+            "CCNA"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science, IT, or Electronics",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science, IT, or Electronics",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB139",
+        "job_title": "Network Engineering Intern",
+        "company": "Wavelength Digital",
+        "location": "Gurugram, India",
+        "job_type": "Internship",
+        "job_description": "Assist the IT infrastructure team in managing and monitoring network systems at Wavelength Digital.",
+        "responsibilities": [
+            "Monitor and maintain network infrastructure",
+            "Troubleshoot network issues",
+            "Assist in network configuration",
+            "Document network architecture"
+        ],
+        "required_skills": [
+            "Networking Basics",
+            "TCP/IP",
+            "Routing and Switching"
+        ],
+        "preferred_skills": [
+            "Cisco",
+            "Network Security",
+            "CCNA"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science, IT, or Electronics",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science, IT, or Electronics",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB140",
+        "job_title": "Network Engineering Intern",
+        "company": "Northstar Analytics",
+        "location": "Noida, India",
+        "job_type": "Internship",
+        "job_description": "Assist the IT infrastructure team in managing and monitoring network systems at Northstar Analytics.",
+        "responsibilities": [
+            "Monitor and maintain network infrastructure",
+            "Troubleshoot network issues",
+            "Assist in network configuration",
+            "Document network architecture"
+        ],
+        "required_skills": [
+            "Networking Basics",
+            "TCP/IP",
+            "Routing and Switching"
+        ],
+        "preferred_skills": [
+            "Cisco",
+            "Network Security",
+            "CCNA"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science, IT, or Electronics",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science, IT, or Electronics",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB141",
+        "job_title": "IT Support Intern",
+        "company": "Elevate Software Solutions",
+        "location": "Chennai, India",
+        "job_type": "Internship",
+        "job_description": "Provide technical support and troubleshooting assistance to employees at Elevate Software Solutions.",
+        "responsibilities": [
+            "Resolve hardware and software issues",
+            "Assist employees with IT queries",
+            "Maintain IT asset inventory",
+            "Escalate complex issues to senior staff"
+        ],
+        "required_skills": [
+            "Troubleshooting",
+            "Operating Systems",
+            "Communication"
+        ],
+        "preferred_skills": [
+            "Active Directory",
+            "Helpdesk Tools",
+            "Networking Basics"
+        ],
+        "qualification": "Bachelor's degree in Computer Science, IT, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in Computer Science, IT, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB142",
+        "job_title": "IT Support Intern",
+        "company": "TrueNorth Systems",
+        "location": "Kolkata, India",
+        "job_type": "Internship",
+        "job_description": "Provide technical support and troubleshooting assistance to employees at TrueNorth Systems.",
+        "responsibilities": [
+            "Resolve hardware and software issues",
+            "Assist employees with IT queries",
+            "Maintain IT asset inventory",
+            "Escalate complex issues to senior staff"
+        ],
+        "required_skills": [
+            "Troubleshooting",
+            "Operating Systems",
+            "Communication"
+        ],
+        "preferred_skills": [
+            "Active Directory",
+            "Helpdesk Tools",
+            "Networking Basics"
+        ],
+        "qualification": "Bachelor's degree in Computer Science, IT, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in Computer Science, IT, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB143",
+        "job_title": "IT Support Intern",
+        "company": "BrightSpark Technologies",
+        "location": "Ahmedabad, India",
+        "job_type": "Internship",
+        "job_description": "Provide technical support and troubleshooting assistance to employees at BrightSpark Technologies.",
+        "responsibilities": [
+            "Resolve hardware and software issues",
+            "Assist employees with IT queries",
+            "Maintain IT asset inventory",
+            "Escalate complex issues to senior staff"
+        ],
+        "required_skills": [
+            "Troubleshooting",
+            "Operating Systems",
+            "Communication"
+        ],
+        "preferred_skills": [
+            "Active Directory",
+            "Helpdesk Tools",
+            "Networking Basics"
+        ],
+        "qualification": "Bachelor's degree in Computer Science, IT, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in Computer Science, IT, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB144",
+        "job_title": "IT Support Intern",
+        "company": "Infinity Cloud Labs",
+        "location": "Jaipur, India",
+        "job_type": "Internship",
+        "job_description": "Provide technical support and troubleshooting assistance to employees at Infinity Cloud Labs.",
+        "responsibilities": [
+            "Resolve hardware and software issues",
+            "Assist employees with IT queries",
+            "Maintain IT asset inventory",
+            "Escalate complex issues to senior staff"
+        ],
+        "required_skills": [
+            "Troubleshooting",
+            "Operating Systems",
+            "Communication"
+        ],
+        "preferred_skills": [
+            "Active Directory",
+            "Helpdesk Tools",
+            "Networking Basics"
+        ],
+        "qualification": "Bachelor's degree in Computer Science, IT, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in Computer Science, IT, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB145",
+        "job_title": "IT Support Intern",
+        "company": "Meridian Software",
+        "location": "Chandigarh, India",
+        "job_type": "Internship",
+        "job_description": "Provide technical support and troubleshooting assistance to employees at Meridian Software.",
+        "responsibilities": [
+            "Resolve hardware and software issues",
+            "Assist employees with IT queries",
+            "Maintain IT asset inventory",
+            "Escalate complex issues to senior staff"
+        ],
+        "required_skills": [
+            "Troubleshooting",
+            "Operating Systems",
+            "Communication"
+        ],
+        "preferred_skills": [
+            "Active Directory",
+            "Helpdesk Tools",
+            "Networking Basics"
+        ],
+        "qualification": "Bachelor's degree in Computer Science, IT, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "Bachelor's degree in Computer Science, IT, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB146",
+        "job_title": "Robotics Intern",
+        "company": "Catalyst Innovations",
+        "location": "Kochi, India",
+        "job_type": "Internship",
+        "job_description": "Support the robotics team in designing, building, and testing robotic systems at Catalyst Innovations.",
+        "responsibilities": [
+            "Assist in designing robotic prototypes",
+            "Write and test control software",
+            "Integrate sensors and actuators",
+            "Document design and test results"
+        ],
+        "required_skills": [
+            "Python",
+            "C++",
+            "Robotics Fundamentals"
+        ],
+        "preferred_skills": [
+            "ROS",
+            "Computer Vision",
+            "Arduino"
+        ],
+        "qualification": "B.Tech/B.E. in Mechanical, Electronics, or Robotics",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Mechanical, Electronics, or Robotics",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB147",
+        "job_title": "Robotics Intern",
+        "company": "Momentum Tech",
+        "location": "Coimbatore, India",
+        "job_type": "Internship",
+        "job_description": "Support the robotics team in designing, building, and testing robotic systems at Momentum Tech.",
+        "responsibilities": [
+            "Assist in designing robotic prototypes",
+            "Write and test control software",
+            "Integrate sensors and actuators",
+            "Document design and test results"
+        ],
+        "required_skills": [
+            "Python",
+            "C++",
+            "Robotics Fundamentals"
+        ],
+        "preferred_skills": [
+            "ROS",
+            "Computer Vision",
+            "Arduino"
+        ],
+        "qualification": "B.Tech/B.E. in Mechanical, Electronics, or Robotics",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Mechanical, Electronics, or Robotics",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB148",
+        "job_title": "Robotics Intern",
+        "company": "Stratosphere Systems",
+        "location": "Indore, India",
+        "job_type": "Internship",
+        "job_description": "Support the robotics team in designing, building, and testing robotic systems at Stratosphere Systems.",
+        "responsibilities": [
+            "Assist in designing robotic prototypes",
+            "Write and test control software",
+            "Integrate sensors and actuators",
+            "Document design and test results"
+        ],
+        "required_skills": [
+            "Python",
+            "C++",
+            "Robotics Fundamentals"
+        ],
+        "preferred_skills": [
+            "ROS",
+            "Computer Vision",
+            "Arduino"
+        ],
+        "qualification": "B.Tech/B.E. in Mechanical, Electronics, or Robotics",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Mechanical, Electronics, or Robotics",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB149",
+        "job_title": "Robotics Intern",
+        "company": "Clearwater Analytics",
+        "location": "Remote, India",
+        "job_type": "Remote Internship",
+        "job_description": "Support the robotics team in designing, building, and testing robotic systems at Clearwater Analytics.",
+        "responsibilities": [
+            "Assist in designing robotic prototypes",
+            "Write and test control software",
+            "Integrate sensors and actuators",
+            "Document design and test results"
+        ],
+        "required_skills": [
+            "Python",
+            "C++",
+            "Robotics Fundamentals"
+        ],
+        "preferred_skills": [
+            "ROS",
+            "Computer Vision",
+            "Arduino"
+        ],
+        "qualification": "B.Tech/B.E. in Mechanical, Electronics, or Robotics",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Mechanical, Electronics, or Robotics",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB150",
+        "job_title": "Robotics Intern",
+        "company": "Ironclad Security Solutions",
+        "location": "Hybrid - Bangalore, India",
+        "job_type": "Hybrid Internship",
+        "job_description": "Support the robotics team in designing, building, and testing robotic systems at Ironclad Security Solutions.",
+        "responsibilities": [
+            "Assist in designing robotic prototypes",
+            "Write and test control software",
+            "Integrate sensors and actuators",
+            "Document design and test results"
+        ],
+        "required_skills": [
+            "Python",
+            "C++",
+            "Robotics Fundamentals"
+        ],
+        "preferred_skills": [
+            "ROS",
+            "Computer Vision",
+            "Arduino"
+        ],
+        "qualification": "B.Tech/B.E. in Mechanical, Electronics, or Robotics",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Mechanical, Electronics, or Robotics",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB151",
+        "job_title": "Natural Language Processing Intern",
+        "company": "Example Technologies",
+        "location": "Hybrid - Pune, India",
+        "job_type": "Hybrid Internship",
+        "job_description": "Work on NLP models and applications to process and understand human language at Example Technologies.",
+        "responsibilities": [
+            "Build and fine-tune NLP models",
+            "Preprocess and analyze text data",
+            "Evaluate model performance",
+            "Collaborate with data science team"
+        ],
+        "required_skills": [
+            "Python",
+            "NLP",
+            "Machine Learning"
+        ],
+        "preferred_skills": [
+            "NLTK",
+            "spaCy",
+            "Transformers"
+        ],
+        "qualification": "B.Tech/B.E./M.Tech in Computer Science, AI, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./M.Tech in Computer Science, AI, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB152",
+        "job_title": "Natural Language Processing Intern",
+        "company": "NextGen Analytics",
+        "location": "Hybrid - Hyderabad, India",
+        "job_type": "Hybrid Internship",
+        "job_description": "Work on NLP models and applications to process and understand human language at NextGen Analytics.",
+        "responsibilities": [
+            "Build and fine-tune NLP models",
+            "Preprocess and analyze text data",
+            "Evaluate model performance",
+            "Collaborate with data science team"
+        ],
+        "required_skills": [
+            "Python",
+            "NLP",
+            "Machine Learning"
+        ],
+        "preferred_skills": [
+            "NLTK",
+            "spaCy",
+            "Transformers"
+        ],
+        "qualification": "B.Tech/B.E./M.Tech in Computer Science, AI, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./M.Tech in Computer Science, AI, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB153",
+        "job_title": "Natural Language Processing Intern",
+        "company": "BlueWave Software",
+        "location": "Bangalore, India",
+        "job_type": "Internship",
+        "job_description": "Work on NLP models and applications to process and understand human language at BlueWave Software.",
+        "responsibilities": [
+            "Build and fine-tune NLP models",
+            "Preprocess and analyze text data",
+            "Evaluate model performance",
+            "Collaborate with data science team"
+        ],
+        "required_skills": [
+            "Python",
+            "NLP",
+            "Machine Learning"
+        ],
+        "preferred_skills": [
+            "NLTK",
+            "spaCy",
+            "Transformers"
+        ],
+        "qualification": "B.Tech/B.E./M.Tech in Computer Science, AI, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./M.Tech in Computer Science, AI, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB154",
+        "job_title": "Natural Language Processing Intern",
+        "company": "TechNova Solutions",
+        "location": "Hyderabad, India",
+        "job_type": "Internship",
+        "job_description": "Work on NLP models and applications to process and understand human language at TechNova Solutions.",
+        "responsibilities": [
+            "Build and fine-tune NLP models",
+            "Preprocess and analyze text data",
+            "Evaluate model performance",
+            "Collaborate with data science team"
+        ],
+        "required_skills": [
+            "Python",
+            "NLP",
+            "Machine Learning"
+        ],
+        "preferred_skills": [
+            "NLTK",
+            "spaCy",
+            "Transformers"
+        ],
+        "qualification": "B.Tech/B.E./M.Tech in Computer Science, AI, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./M.Tech in Computer Science, AI, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB155",
+        "job_title": "Natural Language Processing Intern",
+        "company": "Innovate Labs",
+        "location": "Pune, India",
+        "job_type": "Internship",
+        "job_description": "Work on NLP models and applications to process and understand human language at Innovate Labs.",
+        "responsibilities": [
+            "Build and fine-tune NLP models",
+            "Preprocess and analyze text data",
+            "Evaluate model performance",
+            "Collaborate with data science team"
+        ],
+        "required_skills": [
+            "Python",
+            "NLP",
+            "Machine Learning"
+        ],
+        "preferred_skills": [
+            "NLTK",
+            "spaCy",
+            "Transformers"
+        ],
+        "qualification": "B.Tech/B.E./M.Tech in Computer Science, AI, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./M.Tech in Computer Science, AI, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB156",
+        "job_title": "Computer Vision Intern",
+        "company": "CodeCraft Systems",
+        "location": "Mumbai, India",
+        "job_type": "Internship",
+        "job_description": "Assist in developing computer vision models for image and video analysis at CodeCraft Systems.",
+        "responsibilities": [
+            "Develop and train computer vision models",
+            "Preprocess image and video datasets",
+            "Evaluate and improve model accuracy",
+            "Document experiments and results"
+        ],
+        "required_skills": [
+            "Python",
+            "OpenCV",
+            "Deep Learning"
+        ],
+        "preferred_skills": [
+            "TensorFlow",
+            "PyTorch",
+            "Image Processing"
+        ],
+        "qualification": "B.Tech/B.E./M.Tech in Computer Science, AI, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./M.Tech in Computer Science, AI, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB157",
+        "job_title": "Computer Vision Intern",
+        "company": "DataSphere Inc",
+        "location": "Delhi, India",
+        "job_type": "Internship",
+        "job_description": "Assist in developing computer vision models for image and video analysis at DataSphere Inc.",
+        "responsibilities": [
+            "Develop and train computer vision models",
+            "Preprocess image and video datasets",
+            "Evaluate and improve model accuracy",
+            "Document experiments and results"
+        ],
+        "required_skills": [
+            "Python",
+            "OpenCV",
+            "Deep Learning"
+        ],
+        "preferred_skills": [
+            "TensorFlow",
+            "PyTorch",
+            "Image Processing"
+        ],
+        "qualification": "B.Tech/B.E./M.Tech in Computer Science, AI, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./M.Tech in Computer Science, AI, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB158",
+        "job_title": "Computer Vision Intern",
+        "company": "CloudPeak Technologies",
+        "location": "Gurugram, India",
+        "job_type": "Internship",
+        "job_description": "Assist in developing computer vision models for image and video analysis at CloudPeak Technologies.",
+        "responsibilities": [
+            "Develop and train computer vision models",
+            "Preprocess image and video datasets",
+            "Evaluate and improve model accuracy",
+            "Document experiments and results"
+        ],
+        "required_skills": [
+            "Python",
+            "OpenCV",
+            "Deep Learning"
+        ],
+        "preferred_skills": [
+            "TensorFlow",
+            "PyTorch",
+            "Image Processing"
+        ],
+        "qualification": "B.Tech/B.E./M.Tech in Computer Science, AI, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./M.Tech in Computer Science, AI, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB159",
+        "job_title": "Computer Vision Intern",
+        "company": "ByteForge Software",
+        "location": "Noida, India",
+        "job_type": "Internship",
+        "job_description": "Assist in developing computer vision models for image and video analysis at ByteForge Software.",
+        "responsibilities": [
+            "Develop and train computer vision models",
+            "Preprocess image and video datasets",
+            "Evaluate and improve model accuracy",
+            "Document experiments and results"
+        ],
+        "required_skills": [
+            "Python",
+            "OpenCV",
+            "Deep Learning"
+        ],
+        "preferred_skills": [
+            "TensorFlow",
+            "PyTorch",
+            "Image Processing"
+        ],
+        "qualification": "B.Tech/B.E./M.Tech in Computer Science, AI, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./M.Tech in Computer Science, AI, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB160",
+        "job_title": "Computer Vision Intern",
+        "company": "Quantum Analytics",
+        "location": "Chennai, India",
+        "job_type": "Internship",
+        "job_description": "Assist in developing computer vision models for image and video analysis at Quantum Analytics.",
+        "responsibilities": [
+            "Develop and train computer vision models",
+            "Preprocess image and video datasets",
+            "Evaluate and improve model accuracy",
+            "Document experiments and results"
+        ],
+        "required_skills": [
+            "Python",
+            "OpenCV",
+            "Deep Learning"
+        ],
+        "preferred_skills": [
+            "TensorFlow",
+            "PyTorch",
+            "Image Processing"
+        ],
+        "qualification": "B.Tech/B.E./M.Tech in Computer Science, AI, or related field",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E./M.Tech in Computer Science, AI, or related field",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB161",
+        "job_title": "DevSecOps Intern",
+        "company": "PixelWorks Studio",
+        "location": "Kolkata, India",
+        "job_type": "Internship",
+        "job_description": "Support the integration of security practices into the DevOps pipeline at PixelWorks Studio.",
+        "responsibilities": [
+            "Integrate security checks into CI/CD pipelines",
+            "Monitor for vulnerabilities in deployments",
+            "Assist in automating security testing",
+            "Document security processes"
+        ],
+        "required_skills": [
+            "Linux",
+            "CI/CD",
+            "Security Fundamentals"
+        ],
+        "preferred_skills": [
+            "Docker",
+            "Kubernetes",
+            "Vulnerability Scanning Tools"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science, IT, or Cybersecurity",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science, IT, or Cybersecurity",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB162",
+        "job_title": "DevSecOps Intern",
+        "company": "GreenTech Innovations",
+        "location": "Ahmedabad, India",
+        "job_type": "Internship",
+        "job_description": "Support the integration of security practices into the DevOps pipeline at GreenTech Innovations.",
+        "responsibilities": [
+            "Integrate security checks into CI/CD pipelines",
+            "Monitor for vulnerabilities in deployments",
+            "Assist in automating security testing",
+            "Document security processes"
+        ],
+        "required_skills": [
+            "Linux",
+            "CI/CD",
+            "Security Fundamentals"
+        ],
+        "preferred_skills": [
+            "Docker",
+            "Kubernetes",
+            "Vulnerability Scanning Tools"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science, IT, or Cybersecurity",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science, IT, or Cybersecurity",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB163",
+        "job_title": "DevSecOps Intern",
+        "company": "FinEdge Solutions",
+        "location": "Jaipur, India",
+        "job_type": "Internship",
+        "job_description": "Support the integration of security practices into the DevOps pipeline at FinEdge Solutions.",
+        "responsibilities": [
+            "Integrate security checks into CI/CD pipelines",
+            "Monitor for vulnerabilities in deployments",
+            "Assist in automating security testing",
+            "Document security processes"
+        ],
+        "required_skills": [
+            "Linux",
+            "CI/CD",
+            "Security Fundamentals"
+        ],
+        "preferred_skills": [
+            "Docker",
+            "Kubernetes",
+            "Vulnerability Scanning Tools"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science, IT, or Cybersecurity",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science, IT, or Cybersecurity",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB164",
+        "job_title": "DevSecOps Intern",
+        "company": "MarketMinds Digital",
+        "location": "Chandigarh, India",
+        "job_type": "Internship",
+        "job_description": "Support the integration of security practices into the DevOps pipeline at MarketMinds Digital.",
+        "responsibilities": [
+            "Integrate security checks into CI/CD pipelines",
+            "Monitor for vulnerabilities in deployments",
+            "Assist in automating security testing",
+            "Document security processes"
+        ],
+        "required_skills": [
+            "Linux",
+            "CI/CD",
+            "Security Fundamentals"
+        ],
+        "preferred_skills": [
+            "Docker",
+            "Kubernetes",
+            "Vulnerability Scanning Tools"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science, IT, or Cybersecurity",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science, IT, or Cybersecurity",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "job_id": "JOB165",
+        "job_title": "DevSecOps Intern",
+        "company": "HealthBridge Systems",
+        "location": "Kochi, India",
+        "job_type": "Internship",
+        "job_description": "Support the integration of security practices into the DevOps pipeline at HealthBridge Systems.",
+        "responsibilities": [
+            "Integrate security checks into CI/CD pipelines",
+            "Monitor for vulnerabilities in deployments",
+            "Assist in automating security testing",
+            "Document security processes"
+        ],
+        "required_skills": [
+            "Linux",
+            "CI/CD",
+            "Security Fundamentals"
+        ],
+        "preferred_skills": [
+            "Docker",
+            "Kubernetes",
+            "Vulnerability Scanning Tools"
+        ],
+        "qualification": "B.Tech/B.E. in Computer Science, IT, or Cybersecurity",
+        "experience_requirements": "Fresher / 0-1 years",
+        "education_requirements": "B.Tech/B.E. in Computer Science, IT, or Cybersecurity",
+        "qualifications": [
+            "",
+            ""
+        ]
+    }
+]

@@ -1,4 +1,5 @@
 import streamlit as st
+from agents.job_matching_agent import match_candidate_to_jobs
 import tempfile
 import os
 
@@ -14,6 +15,8 @@ load_dotenv()
 
 create_database()
 
+if "profile" not in st.session_state:
+    st.session_state.profile = None
 
 st.set_page_config(
     page_title="AI Career Companion",
@@ -78,6 +81,7 @@ if uploaded_file:
             profile = extract_candidate_profile(
                 resume_text
             )
+            st.session_state.profile = profile
 
 
         # Add manually entered information
@@ -162,3 +166,59 @@ if uploaded_file:
 
 
         os.remove(temp_path)
+
+# --------------------------------------------------
+# Internship Recommendations
+# --------------------------------------------------
+
+if st.session_state.profile is not None:
+
+    st.subheader("🎯 Internship Recommendations")
+
+    if st.button("Find Suitable Internships"):
+
+        with st.spinner(
+            "Finding suitable internships..."
+        ):
+
+            matches = match_candidate_to_jobs(
+                st.session_state.profile,
+                top_k=5
+            )
+
+        if not matches:
+
+            st.warning(
+                "No suitable internships found."
+            )
+
+        else:
+
+            for index, match in enumerate(
+                matches,
+                start=1
+            ):
+
+                st.markdown(
+                    f"### {index}. {match['title']}"
+                )
+
+                st.write(
+                    f"**Company:** "
+                    f"{match['company']}"
+                )
+
+                st.write(
+                    f"**Location:** "
+                    f"{match['location']}"
+                )
+
+                st.markdown(
+                    "**AI Analysis:**"
+                )
+
+                st.write(
+                    match["analysis"]
+                )
+
+                st.divider()
